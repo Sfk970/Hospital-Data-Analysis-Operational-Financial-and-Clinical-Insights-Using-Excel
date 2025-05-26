@@ -1,0 +1,1001 @@
+Patient_ID,Hospital_Name,Location,Department,Gender,Age,Date_Of_Visit,Diagnosis,Treatment_Cost,Insurance,Length_Of_Stay_Days,Outcome,Patient_Satisfaction_Score,Age Group
+PID00001,Hospital_13,Chicago,Neurology,Female,2,01-01-2023,Diabetes,11916.87,Medicaid,16,Referred,2.80,0-18
+PID00002,Hospital_25,Miami,Cardiology,Male,69,02-01-2023,Covid-19,2545.96,Private,4,Deceased,2.50,60+
+PID00003,Hospital_4,Los Angeles,General Surgery,Other,89,03-01-2023,Fracture,7012.87,Private,1,Referred,2.40,60+
+PID00004,Hospital_2,Atlanta,Emergency,Female,78,04-01-2023,Heart Disease,14155.94,Medicaid,10,Referred,1.10,60+
+PID00005,Hospital_4,Los Angeles,Pediatrics,Other,6,05-01-2023,Fracture,7940.08,Private,1,Recovered,1.70,0-18
+PID00006,Hospital_26,Atlanta,Pediatrics,Male,50,06-01-2023,Heart Disease,3375.19,Medicare,17,Recovered,3.00,36-60
+PID00007,Hospital_28,Atlanta,Emergency,Other,70,07-01-2023,Heart Disease,6686.10,Medicare,13,Recovered,4.80,60+
+PID00008,Hospital_5,Phoenix,Neurology,Female,32,08-01-2023,Heart Disease,1100.69,Private,17,Referred,3.50,19-35
+PID00009,Hospital_2,Atlanta,Oncology,Female,57,09-01-2023,Fracture,10973.65,Uninsured,16,Deceased,2.30,36-60
+PID00010,Hospital_1,Chicago,Emergency,Male,81,10-01-2023,Cancer,7205.52,Uninsured,3,Recovered,2.80,60+
+PID00011,Hospital_1,Atlanta,Pediatrics,Female,40,11-01-2023,Migraine,5645.74,Private,13,Deceased,1.40,36-60
+PID00012,Hospital_17,Los Angeles,General Surgery,Male,36,12-01-2023,Diabetes,4530.21,Private,12,Recovered,3.00,36-60
+PID00013,Hospital_7,Phoenix,General Surgery,Male,73,13-01-2023,Heart Disease,7414.32,Medicare,5,Referred,4.80,60+
+PID00014,Hospital_1,Miami,General Surgery,Other,49,14-01-2023,Heart Disease,1205.12,Medicaid,20,Referred,1.00,36-60
+PID00015,Hospital_13,Atlanta,Oncology,Female,83,15-01-2023,Flu,2796.97,Medicare,17,Deceased,3.40,60+
+PID00016,Hospital_28,Phoenix,General Surgery,Male,69,16-01-2023,Cancer,9887.24,Uninsured,19,Deceased,4.20,60+
+PID00017,Hospital_22,Phoenix,General Surgery,Other,11,17-01-2023,Fracture,10284.86,Private,7,Deceased,4.60,0-18
+PID00018,Hospital_14,Houston,Orthopedics,Female,49,18-01-2023,Heart Disease,6547.38,Private,19,Deceased,3.00,36-60
+PID00019,Hospital_5,Houston,Cardiology,Female,57,19-01-2023,Migraine,1933.51,Medicaid,16,Deceased,3.90,36-60
+PID00020,Hospital_18,Atlanta,Oncology,Female,80,20-01-2023,Fracture,6125.60,Medicaid,13,Deceased,1.60,60+
+PID00021,Hospital_8,New York,Pediatrics,Other,30,21-01-2023,Migraine,14452.91,Uninsured,15,Referred,1.60,19-35
+PID00022,Hospital_5,Phoenix,Cardiology,Male,71,22-01-2023,Migraine,2611.33,Medicaid,2,Recovered,2.90,60+
+PID00023,Hospital_7,Miami,Neurology,Female,59,23-01-2023,Cancer,11456.62,Medicare,9,Referred,2.20,36-60
+PID00024,Hospital_29,Chicago,Orthopedics,Female,88,24-01-2023,Diabetes,1637.16,Medicare,18,Recovered,3.40,60+
+PID00025,Hospital_14,Chicago,Oncology,Male,18,25-01-2023,Diabetes,9096.72,Private,1,Deceased,4.30,0-18
+PID00026,Hospital_10,Miami,Cardiology,Female,32,26-01-2023,Fracture,2782.59,Medicare,9,Deceased,3.10,19-35
+PID00027,Hospital_7,Seattle,Oncology,Male,45,27-01-2023,Fracture,8521.12,Uninsured,16,Referred,1.20,36-60
+PID00028,Hospital_3,Los Angeles,Pediatrics,Male,22,28-01-2023,Fracture,8484.60,Medicare,1,Deceased,2.40,19-35
+PID00029,Hospital_1,New York,Orthopedics,Female,14,29-01-2023,Diabetes,2385.12,Medicare,12,Deceased,3.20,0-18
+PID00030,Hospital_26,Los Angeles,Pediatrics,Male,71,30-01-2023,Fracture,10668.87,Medicaid,17,Deceased,3.30,60+
+PID00031,Hospital_27,Chicago,Orthopedics,Female,45,31-01-2023,Migraine,8144.72,Medicaid,11,Referred,4.90,36-60
+PID00032,Hospital_16,Los Angeles,Cardiology,Female,39,01-02-2023,Cancer,3584.59,Private,10,Deceased,2.90,36-60
+PID00033,Hospital_19,Chicago,General Surgery,Other,74,02-02-2023,Migraine,9635.63,Medicare,6,Referred,3.80,60+
+PID00034,Hospital_19,Seattle,Pediatrics,Male,26,03-02-2023,Fracture,11696.10,Uninsured,17,Deceased,2.20,19-35
+PID00035,Hospital_21,Miami,Oncology,Other,19,04-02-2023,Migraine,1512.27,Private,5,Referred,3.10,19-35
+PID00036,Hospital_10,New York,Pediatrics,Female,31,05-02-2023,Covid-19,11367.82,Medicaid,4,Deceased,3.00,19-35
+PID00037,Hospital_22,Houston,Pediatrics,Female,49,06-02-2023,Flu,7309.46,Private,5,Referred,1.90,36-60
+PID00038,Hospital_28,Atlanta,Pediatrics,Male,71,07-02-2023,Cancer,6380.42,Uninsured,9,Deceased,4.70,60+
+PID00039,Hospital_29,New York,Pediatrics,Male,28,08-02-2023,Diabetes,14150.07,Medicaid,13,Recovered,3.40,19-35
+PID00040,Hospital_10,Atlanta,Neurology,Male,5,09-02-2023,Fracture,14444.53,Medicaid,6,Referred,3.10,0-18
+PID00041,Hospital_22,Seattle,General Surgery,Other,43,10-02-2023,Covid-19,10370.40,Medicaid,13,Recovered,3.50,36-60
+PID00042,Hospital_23,Houston,Cardiology,Other,71,11-02-2023,Flu,13922.62,Medicaid,15,Deceased,2.00,60+
+PID00043,Hospital_15,Los Angeles,General Surgery,Female,37,12-02-2023,Flu,7443.65,Private,11,Recovered,4.60,36-60
+PID00044,Hospital_12,Atlanta,Orthopedics,Female,38,13-02-2023,Covid-19,8927.77,Private,20,Deceased,1.60,36-60
+PID00045,Hospital_26,New York,Emergency,Other,40,14-02-2023,Cancer,14225.27,Medicare,6,Referred,2.90,36-60
+PID00046,Hospital_9,Houston,Oncology,Other,73,15-02-2023,Flu,11142.04,Private,16,Recovered,1.10,60+
+PID00047,Hospital_11,Miami,General Surgery,Other,77,16-02-2023,Covid-19,2101.75,Medicare,18,Deceased,2.50,60+
+PID00048,Hospital_2,Phoenix,Neurology,Other,88,17-02-2023,Heart Disease,10968.48,Medicaid,20,Referred,1.60,60+
+PID00049,Hospital_6,Chicago,Orthopedics,Other,8,18-02-2023,Heart Disease,1976.87,Private,12,Referred,2.30,0-18
+PID00050,Hospital_9,Los Angeles,General Surgery,Female,31,19-02-2023,Flu,1280.32,Medicare,1,Referred,2.20,19-35
+PID00051,Hospital_7,Miami,Orthopedics,Other,57,20-02-2023,Cancer,2312.47,Medicaid,7,Referred,4.20,36-60
+PID00052,Hospital_16,Seattle,Orthopedics,Male,24,21-02-2023,Cancer,2140.89,Private,3,Referred,4.00,19-35
+PID00053,Hospital_14,Atlanta,Cardiology,Other,1,22-02-2023,Heart Disease,5623.82,Uninsured,19,Referred,4.30,0-18
+PID00054,Hospital_9,Phoenix,General Surgery,Male,88,23-02-2023,Covid-19,6024.07,Private,2,Deceased,2.50,60+
+PID00055,Hospital_4,Phoenix,Orthopedics,Other,43,24-02-2023,Fracture,14028.94,Medicare,16,Referred,3.20,36-60
+PID00056,Hospital_14,Atlanta,Cardiology,Female,57,25-02-2023,Diabetes,14199.47,Uninsured,11,Referred,2.00,36-60
+PID00057,Hospital_15,Chicago,Orthopedics,Male,34,26-02-2023,Heart Disease,14332.01,Private,18,Referred,2.80,19-35
+PID00058,Hospital_12,Seattle,Cardiology,Other,66,27-02-2023,Heart Disease,10862.46,Private,6,Referred,2.60,60+
+PID00059,Hospital_10,Chicago,General Surgery,Female,85,28-02-2023,Flu,12461.77,Medicaid,5,Referred,1.40,60+
+PID00060,Hospital_12,Los Angeles,Pediatrics,Female,5,01-03-2023,Cancer,5553.77,Medicaid,20,Recovered,4.00,0-18
+PID00061,Hospital_1,Phoenix,Pediatrics,Male,86,02-03-2023,Covid-19,14118.16,Medicaid,18,Referred,2.30,60+
+PID00062,Hospital_8,Seattle,Orthopedics,Other,69,03-03-2023,Diabetes,10194.95,Private,5,Recovered,3.00,60+
+PID00063,Hospital_21,Phoenix,Neurology,Male,47,04-03-2023,Fracture,10859.57,Private,3,Deceased,2.20,36-60
+PID00064,Hospital_28,New York,Cardiology,Female,2,05-03-2023,Heart Disease,2705.74,Private,19,Referred,3.50,0-18
+PID00065,Hospital_4,Los Angeles,Neurology,Male,7,06-03-2023,Cancer,14878.34,Private,13,Recovered,1.80,0-18
+PID00066,Hospital_26,Phoenix,Oncology,Female,40,07-03-2023,Flu,13954.95,Private,20,Referred,3.50,36-60
+PID00067,Hospital_4,Phoenix,General Surgery,Female,49,08-03-2023,Fracture,4608.44,Private,18,Recovered,4.80,36-60
+PID00068,Hospital_5,New York,Emergency,Female,77,09-03-2023,Migraine,4245.81,Uninsured,19,Referred,2.20,60+
+PID00069,Hospital_17,Houston,Cardiology,Male,42,10-03-2023,Flu,14655.17,Uninsured,2,Recovered,4.30,36-60
+PID00070,Hospital_26,Chicago,Pediatrics,Female,68,11-03-2023,Covid-19,12235.80,Medicaid,9,Recovered,3.50,60+
+PID00071,Hospital_13,Phoenix,Orthopedics,Male,17,12-03-2023,Covid-19,11960.43,Medicare,6,Referred,1.30,0-18
+PID00072,Hospital_4,Phoenix,Orthopedics,Other,5,13-03-2023,Fracture,12781.79,Medicaid,9,Deceased,1.00,0-18
+PID00073,Hospital_4,Phoenix,Neurology,Female,43,14-03-2023,Flu,13965.64,Medicare,9,Recovered,4.70,36-60
+PID00074,Hospital_21,Miami,General Surgery,Other,31,15-03-2023,Covid-19,766.57,Medicare,7,Recovered,4.60,19-35
+PID00075,Hospital_3,New York,Emergency,Other,82,16-03-2023,Migraine,14805.19,Medicare,5,Deceased,3.70,60+
+PID00076,Hospital_6,New York,Cardiology,Female,39,17-03-2023,Migraine,6011.96,Uninsured,20,Referred,2.50,36-60
+PID00077,Hospital_16,New York,Cardiology,Male,34,18-03-2023,Flu,2521.23,Medicaid,17,Deceased,1.90,19-35
+PID00078,Hospital_2,Seattle,Cardiology,Other,76,19-03-2023,Migraine,8383.42,Medicare,12,Deceased,2.70,60+
+PID00079,Hospital_21,Phoenix,General Surgery,Male,80,20-03-2023,Covid-19,13597.51,Uninsured,18,Referred,1.60,60+
+PID00080,Hospital_23,Atlanta,Orthopedics,Male,42,21-03-2023,Covid-19,1901.97,Private,6,Referred,3.50,36-60
+PID00081,Hospital_12,Seattle,Orthopedics,Other,56,22-03-2023,Heart Disease,4733.97,Private,10,Deceased,3.10,36-60
+PID00082,Hospital_16,Los Angeles,Oncology,Female,51,23-03-2023,Fracture,13925.66,Private,16,Recovered,3.90,36-60
+PID00083,Hospital_10,Houston,Emergency,Other,31,24-03-2023,Fracture,14830.36,Medicare,12,Deceased,2.70,19-35
+PID00084,Hospital_19,Los Angeles,General Surgery,Female,64,25-03-2023,Heart Disease,2363.24,Uninsured,9,Referred,4.90,60+
+PID00085,Hospital_22,Seattle,Pediatrics,Male,64,26-03-2023,Fracture,813.30,Private,20,Deceased,4.20,60+
+PID00086,Hospital_12,Los Angeles,General Surgery,Other,10,27-03-2023,Cancer,14762.27,Private,12,Deceased,3.60,0-18
+PID00087,Hospital_26,Chicago,Neurology,Male,25,28-03-2023,Heart Disease,8274.21,Private,3,Recovered,3.60,19-35
+PID00088,Hospital_14,Los Angeles,Cardiology,Male,52,29-03-2023,Cancer,14310.42,Uninsured,18,Referred,2.40,36-60
+PID00089,Hospital_19,Phoenix,Oncology,Other,39,30-03-2023,Migraine,1377.92,Medicaid,2,Referred,1.60,36-60
+PID00090,Hospital_15,Phoenix,Emergency,Female,53,31-03-2023,Flu,4242.71,Private,11,Recovered,4.70,36-60
+PID00091,Hospital_21,Miami,Emergency,Female,12,01-04-2023,Diabetes,8070.39,Medicaid,5,Recovered,3.50,0-18
+PID00092,Hospital_9,Miami,General Surgery,Female,49,02-04-2023,Migraine,12072.35,Medicare,2,Recovered,2.70,36-60
+PID00093,Hospital_29,Miami,Neurology,Other,43,03-04-2023,Diabetes,2768.64,Private,9,Referred,3.10,36-60
+PID00094,Hospital_23,New York,Oncology,Female,62,04-04-2023,Fracture,2402.37,Medicare,15,Referred,4.00,60+
+PID00095,Hospital_3,Phoenix,Orthopedics,Female,11,05-04-2023,Migraine,13510.63,Medicare,14,Referred,4.10,0-18
+PID00096,Hospital_21,Phoenix,Emergency,Other,89,06-04-2023,Heart Disease,5034.74,Private,11,Deceased,4.70,60+
+PID00097,Hospital_30,Miami,Orthopedics,Other,28,07-04-2023,Flu,9026.42,Medicaid,18,Deceased,2.80,19-35
+PID00098,Hospital_10,Seattle,Orthopedics,Female,80,08-04-2023,Migraine,7751.29,Medicare,9,Deceased,4.50,60+
+PID00099,Hospital_23,Seattle,Pediatrics,Other,63,09-04-2023,Covid-19,10795.17,Private,14,Deceased,2.10,60+
+PID00100,Hospital_5,Houston,Oncology,Other,57,10-04-2023,Covid-19,7730.47,Medicaid,18,Deceased,3.10,36-60
+PID00101,Hospital_17,New York,Cardiology,Female,8,11-04-2023,Fracture,13087.97,Uninsured,10,Referred,2.80,0-18
+PID00102,Hospital_25,Los Angeles,Oncology,Other,45,12-04-2023,Migraine,2744.89,Private,9,Deceased,2.20,36-60
+PID00103,Hospital_28,Chicago,General Surgery,Other,62,13-04-2023,Flu,1891.20,Uninsured,9,Deceased,1.50,60+
+PID00104,Hospital_24,New York,Oncology,Other,42,14-04-2023,Fracture,14085.51,Medicaid,17,Referred,2.90,36-60
+PID00105,Hospital_3,Phoenix,Oncology,Male,54,15-04-2023,Fracture,11790.98,Uninsured,7,Referred,3.50,36-60
+PID00106,Hospital_17,Seattle,Emergency,Female,58,16-04-2023,Diabetes,13063.68,Medicare,9,Referred,1.90,36-60
+PID00107,Hospital_12,Chicago,Cardiology,Male,27,17-04-2023,Fracture,2058.06,Medicaid,8,Recovered,4.30,19-35
+PID00108,Hospital_3,Phoenix,Oncology,Other,21,18-04-2023,Migraine,11459.25,Private,11,Deceased,3.10,19-35
+PID00109,Hospital_7,Los Angeles,Neurology,Male,62,19-04-2023,Migraine,13637.13,Medicaid,20,Recovered,4.70,60+
+PID00110,Hospital_30,Seattle,Oncology,Other,29,20-04-2023,Cancer,14392.29,Medicare,13,Deceased,4.30,19-35
+PID00111,Hospital_27,Phoenix,Orthopedics,Female,89,21-04-2023,Diabetes,9449.46,Medicaid,4,Recovered,4.20,60+
+PID00112,Hospital_2,Chicago,Pediatrics,Female,43,22-04-2023,Flu,6612.78,Medicaid,3,Deceased,1.30,36-60
+PID00113,Hospital_27,Atlanta,Emergency,Female,7,23-04-2023,Diabetes,12947.26,Medicaid,14,Referred,4.00,0-18
+PID00114,Hospital_24,Atlanta,Pediatrics,Other,71,24-04-2023,Migraine,4252.01,Medicaid,13,Recovered,1.30,60+
+PID00115,Hospital_7,Phoenix,Cardiology,Other,46,25-04-2023,Migraine,13068.32,Uninsured,19,Recovered,3.30,36-60
+PID00116,Hospital_1,Los Angeles,Orthopedics,Female,25,26-04-2023,Migraine,3446.55,Medicare,1,Deceased,3.90,19-35
+PID00117,Hospital_17,Phoenix,Pediatrics,Male,44,27-04-2023,Diabetes,8041.48,Medicaid,12,Deceased,4.90,36-60
+PID00118,Hospital_30,Seattle,Pediatrics,Male,16,28-04-2023,Flu,6285.34,Private,6,Deceased,3.20,0-18
+PID00119,Hospital_29,Chicago,Neurology,Other,68,29-04-2023,Cancer,8271.66,Uninsured,6,Deceased,2.60,60+
+PID00120,Hospital_30,Phoenix,Oncology,Male,16,30-04-2023,Cancer,3063.66,Private,8,Deceased,2.70,0-18
+PID00121,Hospital_20,Chicago,Neurology,Male,45,01-05-2023,Heart Disease,3932.75,Medicaid,8,Deceased,3.20,36-60
+PID00122,Hospital_18,Houston,Emergency,Female,72,02-05-2023,Cancer,8539.85,Private,4,Recovered,4.70,60+
+PID00123,Hospital_21,Miami,Pediatrics,Other,48,03-05-2023,Diabetes,9622.44,Private,4,Deceased,4.80,36-60
+PID00124,Hospital_3,Chicago,Cardiology,Other,66,04-05-2023,Migraine,14417.70,Private,12,Deceased,4.40,60+
+PID00125,Hospital_14,Phoenix,Emergency,Male,9,05-05-2023,Diabetes,8756.11,Medicare,17,Deceased,1.30,0-18
+PID00126,Hospital_26,Atlanta,Pediatrics,Other,67,06-05-2023,Fracture,6502.71,Uninsured,18,Referred,3.50,60+
+PID00127,Hospital_8,Miami,Oncology,Female,27,07-05-2023,Diabetes,11626.29,Medicare,3,Deceased,4.40,19-35
+PID00128,Hospital_11,Seattle,Neurology,Other,14,08-05-2023,Diabetes,2469.31,Medicare,8,Referred,2.60,0-18
+PID00129,Hospital_9,New York,Oncology,Female,14,09-05-2023,Fracture,7953.95,Medicare,2,Referred,1.80,0-18
+PID00130,Hospital_8,Houston,Neurology,Other,1,10-05-2023,Cancer,5061.07,Medicare,9,Deceased,4.70,0-18
+PID00131,Hospital_27,Miami,Pediatrics,Other,86,11-05-2023,Flu,8522.44,Medicare,15,Deceased,3.20,60+
+PID00132,Hospital_18,Chicago,Emergency,Female,50,12-05-2023,Migraine,11501.49,Medicare,12,Deceased,2.10,36-60
+PID00133,Hospital_2,Seattle,General Surgery,Female,52,13-05-2023,Fracture,1006.67,Medicaid,12,Deceased,2.00,36-60
+PID00134,Hospital_25,Houston,Emergency,Other,90,14-05-2023,Fracture,9673.32,Medicare,3,Deceased,4.80,60+
+PID00135,Hospital_8,Atlanta,Pediatrics,Other,90,15-05-2023,Flu,1976.86,Medicare,3,Referred,3.00,60+
+PID00136,Hospital_11,Chicago,Cardiology,Female,23,16-05-2023,Heart Disease,12597.46,Uninsured,10,Deceased,1.40,19-35
+PID00137,Hospital_4,Seattle,Orthopedics,Male,17,17-05-2023,Migraine,5057.43,Uninsured,18,Recovered,2.10,0-18
+PID00138,Hospital_9,New York,Neurology,Female,2,18-05-2023,Fracture,2562.61,Private,14,Recovered,4.70,0-18
+PID00139,Hospital_6,Atlanta,Oncology,Male,32,19-05-2023,Cancer,12006.39,Medicaid,4,Recovered,4.90,19-35
+PID00140,Hospital_30,Atlanta,Orthopedics,Other,74,20-05-2023,Flu,6364.97,Private,7,Deceased,3.90,60+
+PID00141,Hospital_19,Houston,Neurology,Male,47,21-05-2023,Diabetes,10072.04,Uninsured,9,Recovered,3.20,36-60
+PID00142,Hospital_3,Chicago,General Surgery,Female,35,22-05-2023,Covid-19,809.30,Private,17,Recovered,1.30,19-35
+PID00143,Hospital_6,Seattle,Cardiology,Other,15,23-05-2023,Diabetes,4713.97,Medicare,20,Recovered,1.30,0-18
+PID00144,Hospital_23,New York,Emergency,Other,60,24-05-2023,Fracture,746.24,Private,4,Deceased,3.70,36-60
+PID00145,Hospital_27,Los Angeles,Pediatrics,Male,78,25-05-2023,Cancer,564.44,Uninsured,16,Referred,2.90,60+
+PID00146,Hospital_2,Chicago,Pediatrics,Other,11,26-05-2023,Flu,2436.65,Private,15,Recovered,1.60,0-18
+PID00147,Hospital_24,Miami,Neurology,Female,6,27-05-2023,Heart Disease,10465.07,Medicaid,15,Referred,4.90,0-18
+PID00148,Hospital_6,Houston,Oncology,Female,79,28-05-2023,Fracture,5601.67,Medicare,2,Deceased,3.80,60+
+PID00149,Hospital_10,Miami,General Surgery,Male,27,29-05-2023,Heart Disease,8606.68,Uninsured,17,Referred,1.60,19-35
+PID00150,Hospital_14,Seattle,Orthopedics,Female,12,30-05-2023,Flu,10446.56,Uninsured,1,Deceased,1.70,0-18
+PID00151,Hospital_2,Miami,Cardiology,Other,57,31-05-2023,Covid-19,9842.33,Private,14,Referred,4.00,36-60
+PID00152,Hospital_10,Phoenix,Oncology,Female,75,01-06-2023,Cancer,5291.70,Medicaid,18,Recovered,3.90,60+
+PID00153,Hospital_25,Houston,Orthopedics,Male,68,02-06-2023,Heart Disease,5112.97,Medicaid,2,Deceased,2.30,60+
+PID00154,Hospital_1,Atlanta,General Surgery,Other,10,03-06-2023,Flu,6006.23,Private,17,Recovered,4.60,0-18
+PID00155,Hospital_9,Seattle,Cardiology,Female,46,04-06-2023,Flu,12406.04,Uninsured,7,Deceased,4.80,36-60
+PID00156,Hospital_13,Seattle,Pediatrics,Other,64,05-06-2023,Covid-19,1851.42,Uninsured,4,Deceased,1.60,60+
+PID00157,Hospital_20,Atlanta,Cardiology,Female,58,06-06-2023,Fracture,1802.23,Medicaid,2,Referred,2.60,36-60
+PID00158,Hospital_30,Miami,Neurology,Other,31,07-06-2023,Fracture,14166.93,Medicare,19,Deceased,3.60,19-35
+PID00159,Hospital_9,Houston,Pediatrics,Male,46,08-06-2023,Heart Disease,9576.71,Private,18,Recovered,2.70,36-60
+PID00160,Hospital_29,Chicago,Neurology,Male,73,09-06-2023,Migraine,11510.29,Uninsured,18,Recovered,3.70,60+
+PID00161,Hospital_22,Seattle,Orthopedics,Female,79,10-06-2023,Fracture,4454.86,Private,7,Deceased,1.70,60+
+PID00162,Hospital_10,Houston,Oncology,Other,35,11-06-2023,Cancer,8747.16,Private,12,Referred,2.90,19-35
+PID00163,Hospital_27,Chicago,Neurology,Male,81,12-06-2023,Flu,5811.23,Medicare,15,Deceased,4.80,60+
+PID00164,Hospital_23,Phoenix,Orthopedics,Other,25,13-06-2023,Cancer,7831.96,Medicare,5,Recovered,2.30,19-35
+PID00165,Hospital_24,Atlanta,Pediatrics,Male,22,14-06-2023,Diabetes,11448.98,Private,17,Deceased,2.40,19-35
+PID00166,Hospital_28,Houston,General Surgery,Female,51,15-06-2023,Heart Disease,12289.88,Uninsured,20,Deceased,1.50,36-60
+PID00167,Hospital_24,Houston,Emergency,Male,42,16-06-2023,Migraine,12061.79,Private,6,Deceased,3.10,36-60
+PID00168,Hospital_21,New York,Cardiology,Male,60,17-06-2023,Cancer,10643.36,Medicare,5,Referred,4.20,36-60
+PID00169,Hospital_24,Phoenix,Cardiology,Male,86,18-06-2023,Heart Disease,14880.62,Medicare,1,Deceased,3.40,60+
+PID00170,Hospital_28,Miami,Neurology,Other,49,19-06-2023,Cancer,7458.75,Medicare,7,Deceased,4.50,36-60
+PID00171,Hospital_14,Atlanta,Oncology,Female,15,20-06-2023,Fracture,10434.77,Medicare,20,Recovered,3.10,0-18
+PID00172,Hospital_7,Houston,Cardiology,Female,84,21-06-2023,Cancer,14397.73,Uninsured,4,Deceased,3.70,60+
+PID00173,Hospital_1,Chicago,General Surgery,Other,15,22-06-2023,Flu,12651.34,Medicare,1,Referred,2.90,0-18
+PID00174,Hospital_23,Houston,Neurology,Other,48,23-06-2023,Diabetes,5322.58,Private,11,Deceased,1.60,36-60
+PID00175,Hospital_4,Chicago,Neurology,Other,25,24-06-2023,Migraine,12711.08,Medicare,18,Deceased,3.40,19-35
+PID00176,Hospital_14,Houston,Pediatrics,Male,88,25-06-2023,Covid-19,14162.63,Uninsured,7,Recovered,3.20,60+
+PID00177,Hospital_7,Atlanta,Cardiology,Male,37,26-06-2023,Diabetes,8919.13,Private,7,Recovered,4.50,36-60
+PID00178,Hospital_26,Atlanta,Emergency,Female,33,27-06-2023,Flu,3952.34,Medicaid,18,Referred,3.40,19-35
+PID00179,Hospital_29,Los Angeles,Orthopedics,Other,60,28-06-2023,Migraine,10618.41,Private,5,Referred,2.80,36-60
+PID00180,Hospital_9,Atlanta,General Surgery,Other,83,29-06-2023,Covid-19,8084.21,Private,20,Recovered,1.20,60+
+PID00181,Hospital_13,New York,Orthopedics,Other,83,30-06-2023,Heart Disease,2301.68,Private,6,Deceased,1.30,60+
+PID00182,Hospital_9,Los Angeles,Emergency,Male,66,01-07-2023,Heart Disease,3380.70,Medicaid,1,Recovered,2.10,60+
+PID00183,Hospital_15,Seattle,General Surgery,Female,26,02-07-2023,Migraine,13611.09,Uninsured,14,Recovered,2.60,19-35
+PID00184,Hospital_4,Houston,General Surgery,Female,54,03-07-2023,Diabetes,4397.93,Medicaid,12,Recovered,1.80,36-60
+PID00185,Hospital_6,Los Angeles,Emergency,Male,83,04-07-2023,Fracture,2022.12,Private,16,Referred,2.90,60+
+PID00186,Hospital_8,Chicago,Oncology,Male,53,05-07-2023,Flu,9893.14,Uninsured,12,Recovered,4.10,36-60
+PID00187,Hospital_4,Atlanta,Oncology,Other,40,06-07-2023,Fracture,7154.94,Private,15,Deceased,1.50,36-60
+PID00188,Hospital_1,New York,Emergency,Other,67,07-07-2023,Covid-19,6621.63,Uninsured,12,Referred,4.00,60+
+PID00189,Hospital_1,Phoenix,Emergency,Male,90,08-07-2023,Fracture,1962.02,Uninsured,9,Recovered,4.80,60+
+PID00190,Hospital_14,Atlanta,General Surgery,Female,35,09-07-2023,Fracture,14322.83,Medicaid,7,Recovered,4.70,19-35
+PID00191,Hospital_11,Houston,General Surgery,Other,31,10-07-2023,Migraine,12798.71,Uninsured,10,Deceased,4.70,19-35
+PID00192,Hospital_19,Seattle,Pediatrics,Male,55,11-07-2023,Fracture,2648.01,Medicaid,11,Referred,2.20,36-60
+PID00193,Hospital_17,Chicago,General Surgery,Other,55,12-07-2023,Fracture,5356.84,Medicaid,20,Deceased,4.20,36-60
+PID00194,Hospital_10,Seattle,Oncology,Female,54,13-07-2023,Cancer,9907.04,Private,12,Deceased,2.90,36-60
+PID00195,Hospital_3,Chicago,General Surgery,Female,81,14-07-2023,Migraine,13587.32,Private,5,Recovered,4.80,60+
+PID00196,Hospital_6,Atlanta,Neurology,Female,57,15-07-2023,Flu,14172.29,Medicare,14,Referred,3.40,36-60
+PID00197,Hospital_23,Miami,Oncology,Male,76,16-07-2023,Migraine,12351.00,Uninsured,6,Recovered,2.40,60+
+PID00198,Hospital_27,Phoenix,Neurology,Female,18,17-07-2023,Cancer,12060.47,Medicaid,15,Recovered,2.60,0-18
+PID00199,Hospital_16,Miami,Oncology,Male,73,18-07-2023,Diabetes,5434.76,Uninsured,14,Referred,4.10,60+
+PID00200,Hospital_20,Miami,Neurology,Male,13,19-07-2023,Migraine,5890.77,Uninsured,7,Referred,2.60,0-18
+PID00201,Hospital_30,Seattle,Neurology,Male,83,20-07-2023,Diabetes,7924.24,Medicaid,4,Referred,4.60,60+
+PID00202,Hospital_28,Miami,Pediatrics,Male,22,21-07-2023,Flu,14739.71,Medicare,14,Referred,2.40,19-35
+PID00203,Hospital_13,Miami,Cardiology,Male,38,22-07-2023,Cancer,12494.83,Private,3,Referred,2.30,36-60
+PID00204,Hospital_2,Seattle,Oncology,Male,33,23-07-2023,Migraine,6190.26,Uninsured,18,Recovered,4.80,19-35
+PID00205,Hospital_18,Chicago,Orthopedics,Female,16,24-07-2023,Migraine,1941.18,Uninsured,14,Deceased,2.90,0-18
+PID00206,Hospital_3,Seattle,Oncology,Other,13,25-07-2023,Cancer,6826.23,Medicaid,10,Deceased,4.80,0-18
+PID00207,Hospital_11,Los Angeles,Emergency,Other,60,26-07-2023,Cancer,13810.44,Private,14,Recovered,4.30,36-60
+PID00208,Hospital_28,Seattle,Orthopedics,Male,69,27-07-2023,Diabetes,6279.97,Medicare,6,Deceased,1.40,60+
+PID00209,Hospital_22,Chicago,Cardiology,Other,48,28-07-2023,Fracture,5875.97,Uninsured,18,Deceased,1.60,36-60
+PID00210,Hospital_14,Houston,Neurology,Other,80,29-07-2023,Diabetes,3426.84,Medicare,6,Deceased,2.10,60+
+PID00211,Hospital_13,Atlanta,Oncology,Female,66,30-07-2023,Migraine,6301.02,Medicare,16,Deceased,2.30,60+
+PID00212,Hospital_5,Houston,General Surgery,Female,33,31-07-2023,Cancer,10899.04,Uninsured,11,Referred,3.00,19-35
+PID00213,Hospital_5,Phoenix,Pediatrics,Male,33,01-08-2023,Covid-19,12523.83,Uninsured,19,Referred,4.40,19-35
+PID00214,Hospital_27,Atlanta,Oncology,Male,3,02-08-2023,Diabetes,14378.51,Medicare,5,Recovered,2.50,0-18
+PID00215,Hospital_3,Phoenix,General Surgery,Male,61,03-08-2023,Flu,12916.83,Medicaid,14,Deceased,1.70,60+
+PID00216,Hospital_15,Seattle,Orthopedics,Other,10,04-08-2023,Covid-19,8452.52,Medicare,1,Recovered,2.40,0-18
+PID00217,Hospital_25,Phoenix,Emergency,Other,9,05-08-2023,Heart Disease,5767.17,Uninsured,9,Recovered,1.20,0-18
+PID00218,Hospital_15,Chicago,Pediatrics,Male,18,06-08-2023,Diabetes,5501.38,Private,13,Deceased,1.50,0-18
+PID00219,Hospital_12,Chicago,Emergency,Other,51,07-08-2023,Fracture,2653.16,Medicare,4,Referred,4.40,36-60
+PID00220,Hospital_14,Miami,Emergency,Male,63,08-08-2023,Fracture,12250.63,Uninsured,18,Deceased,1.40,60+
+PID00221,Hospital_20,Houston,Pediatrics,Female,8,09-08-2023,Covid-19,10199.62,Uninsured,15,Recovered,4.10,0-18
+PID00222,Hospital_13,New York,Emergency,Other,32,10-08-2023,Diabetes,6241.99,Medicare,13,Deceased,2.70,19-35
+PID00223,Hospital_16,Atlanta,Pediatrics,Female,25,11-08-2023,Fracture,1560.11,Medicaid,10,Referred,4.40,19-35
+PID00224,Hospital_8,Seattle,Neurology,Male,77,12-08-2023,Heart Disease,13193.40,Medicare,18,Deceased,4.50,60+
+PID00225,Hospital_19,Los Angeles,General Surgery,Female,59,13-08-2023,Diabetes,13711.56,Uninsured,14,Referred,4.60,36-60
+PID00226,Hospital_14,Los Angeles,Cardiology,Male,39,14-08-2023,Heart Disease,7605.41,Private,2,Deceased,2.80,36-60
+PID00227,Hospital_19,Houston,Neurology,Other,34,15-08-2023,Cancer,5694.89,Uninsured,4,Deceased,2.30,19-35
+PID00228,Hospital_16,Phoenix,Oncology,Other,89,16-08-2023,Cancer,2149.91,Medicare,14,Deceased,2.90,60+
+PID00229,Hospital_10,Chicago,Cardiology,Male,6,17-08-2023,Migraine,2829.60,Medicaid,4,Recovered,2.60,0-18
+PID00230,Hospital_3,Los Angeles,Cardiology,Female,39,18-08-2023,Cancer,13316.20,Medicare,9,Referred,2.60,36-60
+PID00231,Hospital_23,Houston,Emergency,Other,3,19-08-2023,Diabetes,2719.53,Private,2,Referred,4.30,0-18
+PID00232,Hospital_27,Atlanta,Pediatrics,Male,31,20-08-2023,Cancer,2031.99,Medicaid,5,Referred,3.60,19-35
+PID00233,Hospital_13,New York,Pediatrics,Other,43,21-08-2023,Cancer,3278.75,Medicaid,1,Deceased,3.10,36-60
+PID00234,Hospital_9,Seattle,Neurology,Female,31,22-08-2023,Fracture,3977.66,Medicare,16,Deceased,2.60,19-35
+PID00235,Hospital_5,Chicago,General Surgery,Other,54,23-08-2023,Cancer,11300.21,Private,15,Deceased,4.00,36-60
+PID00236,Hospital_22,Houston,Oncology,Female,31,24-08-2023,Heart Disease,1184.03,Uninsured,11,Recovered,4.00,19-35
+PID00237,Hospital_8,New York,Pediatrics,Female,73,25-08-2023,Heart Disease,10932.77,Medicaid,14,Deceased,4.40,60+
+PID00238,Hospital_27,Houston,Pediatrics,Other,76,26-08-2023,Covid-19,6132.50,Uninsured,17,Recovered,1.00,60+
+PID00239,Hospital_8,Los Angeles,Orthopedics,Female,26,27-08-2023,Cancer,7035.97,Medicare,4,Recovered,4.90,19-35
+PID00240,Hospital_16,Chicago,Emergency,Other,11,28-08-2023,Fracture,8576.78,Private,7,Referred,3.90,0-18
+PID00241,Hospital_9,Los Angeles,General Surgery,Male,86,29-08-2023,Heart Disease,8573.57,Uninsured,11,Deceased,2.30,60+
+PID00242,Hospital_28,Chicago,Oncology,Other,64,30-08-2023,Heart Disease,4694.79,Medicaid,20,Referred,1.20,60+
+PID00243,Hospital_3,Houston,Oncology,Other,43,31-08-2023,Migraine,13190.68,Private,1,Deceased,4.40,36-60
+PID00244,Hospital_5,Atlanta,Emergency,Other,43,01-09-2023,Cancer,5873.78,Uninsured,4,Recovered,2.80,36-60
+PID00245,Hospital_29,Miami,Emergency,Other,37,02-09-2023,Fracture,12743.21,Uninsured,2,Deceased,4.20,36-60
+PID00246,Hospital_16,Phoenix,General Surgery,Female,74,03-09-2023,Cancer,11225.53,Medicare,4,Referred,1.80,60+
+PID00247,Hospital_14,Houston,Pediatrics,Male,73,04-09-2023,Cancer,6396.86,Private,8,Recovered,2.80,60+
+PID00248,Hospital_23,Chicago,Neurology,Other,71,05-09-2023,Fracture,14891.23,Private,7,Referred,2.10,60+
+PID00249,Hospital_11,Chicago,Cardiology,Male,84,06-09-2023,Diabetes,4547.73,Medicare,2,Referred,3.10,60+
+PID00250,Hospital_29,Phoenix,Neurology,Other,22,07-09-2023,Diabetes,14224.50,Private,15,Recovered,3.30,19-35
+PID00251,Hospital_2,Miami,Pediatrics,Male,13,08-09-2023,Heart Disease,8455.62,Private,9,Deceased,3.80,0-18
+PID00252,Hospital_1,Miami,Cardiology,Male,54,09-09-2023,Migraine,11769.02,Uninsured,3,Referred,2.70,36-60
+PID00253,Hospital_20,Chicago,Orthopedics,Female,86,10-09-2023,Heart Disease,4504.43,Private,9,Referred,5.00,60+
+PID00254,Hospital_30,New York,General Surgery,Other,60,11-09-2023,Fracture,12366.28,Medicaid,14,Deceased,2.70,36-60
+PID00255,Hospital_14,New York,Emergency,Other,48,12-09-2023,Heart Disease,2028.15,Medicaid,13,Referred,4.40,36-60
+PID00256,Hospital_4,Seattle,Cardiology,Female,43,13-09-2023,Fracture,8262.10,Medicare,15,Referred,4.00,36-60
+PID00257,Hospital_20,Miami,Oncology,Other,55,14-09-2023,Flu,14785.26,Medicaid,6,Recovered,3.30,36-60
+PID00258,Hospital_15,Chicago,Neurology,Female,40,15-09-2023,Migraine,12217.25,Private,7,Deceased,1.70,36-60
+PID00259,Hospital_2,Chicago,Oncology,Female,23,16-09-2023,Diabetes,6257.05,Medicaid,4,Deceased,1.70,19-35
+PID00260,Hospital_8,Chicago,General Surgery,Male,20,17-09-2023,Covid-19,13537.80,Private,17,Referred,3.20,19-35
+PID00261,Hospital_1,Seattle,Oncology,Other,13,18-09-2023,Heart Disease,2844.94,Uninsured,18,Deceased,1.20,0-18
+PID00262,Hospital_29,Houston,Oncology,Male,55,19-09-2023,Cancer,12793.80,Medicare,19,Recovered,2.20,36-60
+PID00263,Hospital_15,New York,Oncology,Female,27,20-09-2023,Flu,546.52,Uninsured,5,Deceased,1.60,19-35
+PID00264,Hospital_16,Miami,Oncology,Female,88,21-09-2023,Flu,7082.14,Uninsured,3,Recovered,1.40,60+
+PID00265,Hospital_12,Los Angeles,General Surgery,Male,85,22-09-2023,Heart Disease,6001.73,Medicare,8,Deceased,2.90,60+
+PID00266,Hospital_7,Atlanta,Cardiology,Other,56,23-09-2023,Migraine,2946.12,Private,19,Recovered,4.30,36-60
+PID00267,Hospital_17,Los Angeles,General Surgery,Female,90,24-09-2023,Cancer,6579.53,Medicaid,3,Deceased,2.20,60+
+PID00268,Hospital_26,Miami,Neurology,Other,62,25-09-2023,Flu,12978.89,Medicaid,2,Recovered,3.20,60+
+PID00269,Hospital_9,Seattle,Emergency,Female,63,26-09-2023,Fracture,12020.52,Uninsured,17,Referred,1.40,60+
+PID00270,Hospital_14,Chicago,Cardiology,Female,37,27-09-2023,Covid-19,10131.21,Medicaid,11,Recovered,3.30,36-60
+PID00271,Hospital_29,Phoenix,Neurology,Female,50,28-09-2023,Diabetes,3249.98,Medicare,13,Referred,3.40,36-60
+PID00272,Hospital_22,Los Angeles,Emergency,Female,41,29-09-2023,Migraine,11991.65,Uninsured,8,Deceased,1.20,36-60
+PID00273,Hospital_25,Chicago,Orthopedics,Female,59,30-09-2023,Cancer,706.42,Private,16,Referred,3.90,36-60
+PID00274,Hospital_27,New York,Emergency,Male,61,01-10-2023,Covid-19,839.99,Private,4,Recovered,5.00,60+
+PID00275,Hospital_1,New York,Orthopedics,Other,72,02-10-2023,Fracture,4561.74,Uninsured,7,Referred,2.70,60+
+PID00276,Hospital_26,New York,Emergency,Male,20,03-10-2023,Migraine,775.51,Uninsured,4,Deceased,4.20,19-35
+PID00277,Hospital_22,Phoenix,Neurology,Male,43,04-10-2023,Cancer,4514.32,Medicaid,6,Recovered,3.90,36-60
+PID00278,Hospital_27,Phoenix,Oncology,Female,16,05-10-2023,Migraine,7739.41,Uninsured,17,Deceased,2.50,0-18
+PID00279,Hospital_10,New York,Cardiology,Male,76,06-10-2023,Fracture,11877.72,Private,7,Referred,1.40,60+
+PID00280,Hospital_6,Atlanta,Pediatrics,Other,76,07-10-2023,Migraine,4655.97,Medicare,5,Recovered,4.20,60+
+PID00281,Hospital_13,Seattle,Cardiology,Other,4,08-10-2023,Heart Disease,6261.47,Private,5,Recovered,3.30,0-18
+PID00282,Hospital_19,Atlanta,Neurology,Other,10,09-10-2023,Diabetes,1614.96,Uninsured,19,Deceased,1.10,0-18
+PID00283,Hospital_17,Atlanta,Emergency,Male,49,10-10-2023,Migraine,5518.47,Uninsured,13,Recovered,3.90,36-60
+PID00284,Hospital_21,Phoenix,Oncology,Other,23,11-10-2023,Heart Disease,14675.87,Uninsured,16,Deceased,2.80,19-35
+PID00285,Hospital_9,Miami,Oncology,Other,49,12-10-2023,Heart Disease,11823.22,Uninsured,8,Recovered,1.60,36-60
+PID00286,Hospital_15,Los Angeles,Emergency,Male,10,13-10-2023,Fracture,632.12,Private,4,Deceased,1.40,0-18
+PID00287,Hospital_25,New York,General Surgery,Male,13,14-10-2023,Migraine,13939.42,Medicare,19,Recovered,2.10,0-18
+PID00288,Hospital_15,Phoenix,Pediatrics,Other,27,15-10-2023,Diabetes,3149.22,Uninsured,18,Deceased,3.20,19-35
+PID00289,Hospital_13,Houston,Pediatrics,Other,34,16-10-2023,Cancer,13586.62,Medicare,2,Recovered,3.60,19-35
+PID00290,Hospital_16,Miami,Neurology,Other,42,17-10-2023,Cancer,14936.58,Medicaid,12,Deceased,2.40,36-60
+PID00291,Hospital_14,Phoenix,Orthopedics,Other,38,18-10-2023,Flu,11705.82,Medicaid,10,Referred,3.40,36-60
+PID00292,Hospital_1,Miami,Neurology,Male,88,19-10-2023,Cancer,742.09,Medicaid,17,Referred,3.40,60+
+PID00293,Hospital_4,Miami,Orthopedics,Other,67,20-10-2023,Fracture,13742.88,Private,16,Recovered,2.80,60+
+PID00294,Hospital_5,Miami,Cardiology,Female,53,21-10-2023,Cancer,14210.65,Medicare,18,Deceased,4.60,36-60
+PID00295,Hospital_4,Atlanta,Orthopedics,Female,28,22-10-2023,Diabetes,13898.54,Medicaid,18,Recovered,2.30,19-35
+PID00296,Hospital_20,Seattle,Neurology,Male,33,23-10-2023,Migraine,5506.69,Medicare,2,Recovered,4.40,19-35
+PID00297,Hospital_16,Los Angeles,Pediatrics,Other,75,24-10-2023,Heart Disease,8617.27,Private,20,Recovered,2.60,60+
+PID00298,Hospital_18,Miami,Orthopedics,Other,64,25-10-2023,Diabetes,5203.08,Medicaid,17,Referred,1.90,60+
+PID00299,Hospital_23,New York,Pediatrics,Other,51,26-10-2023,Flu,12868.21,Medicare,15,Referred,1.40,36-60
+PID00300,Hospital_1,Miami,Emergency,Other,65,27-10-2023,Cancer,14965.99,Private,11,Referred,3.70,60+
+PID00301,Hospital_10,Chicago,Neurology,Male,50,28-10-2023,Heart Disease,9076.22,Private,10,Referred,4.70,36-60
+PID00302,Hospital_28,Chicago,General Surgery,Male,36,29-10-2023,Heart Disease,8114.65,Medicaid,7,Deceased,4.20,36-60
+PID00303,Hospital_10,Houston,Emergency,Female,33,30-10-2023,Migraine,13681.86,Uninsured,4,Recovered,3.60,19-35
+PID00304,Hospital_11,Chicago,Orthopedics,Other,83,31-10-2023,Heart Disease,1726.90,Uninsured,4,Deceased,2.20,60+
+PID00305,Hospital_15,Houston,Emergency,Other,81,01-11-2023,Covid-19,11556.89,Uninsured,8,Recovered,4.10,60+
+PID00306,Hospital_1,Los Angeles,General Surgery,Male,76,02-11-2023,Migraine,9055.05,Medicaid,7,Recovered,2.40,60+
+PID00307,Hospital_23,Chicago,General Surgery,Other,88,03-11-2023,Flu,7503.44,Uninsured,3,Referred,2.90,60+
+PID00308,Hospital_13,New York,Orthopedics,Male,4,04-11-2023,Flu,12349.08,Private,11,Deceased,2.10,0-18
+PID00309,Hospital_21,Chicago,Pediatrics,Female,62,05-11-2023,Diabetes,2150.51,Medicaid,2,Referred,3.10,60+
+PID00310,Hospital_17,New York,Orthopedics,Other,37,06-11-2023,Diabetes,11301.16,Private,7,Recovered,2.60,36-60
+PID00311,Hospital_17,Houston,Orthopedics,Male,22,07-11-2023,Migraine,7105.72,Uninsured,1,Recovered,5.00,19-35
+PID00312,Hospital_4,Chicago,Oncology,Female,10,08-11-2023,Diabetes,3791.33,Private,11,Recovered,1.20,0-18
+PID00313,Hospital_3,New York,Pediatrics,Female,35,09-11-2023,Heart Disease,8391.32,Uninsured,20,Recovered,1.60,19-35
+PID00314,Hospital_18,New York,Cardiology,Female,71,10-11-2023,Flu,9050.68,Medicaid,3,Recovered,3.60,60+
+PID00315,Hospital_13,Chicago,Emergency,Male,49,11-11-2023,Migraine,3803.68,Uninsured,5,Referred,2.60,36-60
+PID00316,Hospital_17,Chicago,Oncology,Other,5,12-11-2023,Diabetes,10358.24,Uninsured,14,Referred,4.00,0-18
+PID00317,Hospital_24,New York,Neurology,Other,14,13-11-2023,Heart Disease,10994.27,Private,14,Recovered,3.20,0-18
+PID00318,Hospital_11,Miami,Cardiology,Other,67,14-11-2023,Heart Disease,5501.32,Uninsured,3,Deceased,4.00,60+
+PID00319,Hospital_4,Phoenix,Emergency,Male,81,15-11-2023,Cancer,10141.19,Medicaid,18,Recovered,3.60,60+
+PID00320,Hospital_10,Miami,General Surgery,Other,47,16-11-2023,Cancer,12926.13,Medicare,1,Recovered,2.30,36-60
+PID00321,Hospital_23,Houston,Emergency,Male,65,17-11-2023,Cancer,2466.89,Private,14,Deceased,4.40,60+
+PID00322,Hospital_28,Houston,Cardiology,Female,41,18-11-2023,Diabetes,1063.93,Medicare,19,Referred,4.30,36-60
+PID00323,Hospital_15,Miami,Pediatrics,Female,89,19-11-2023,Covid-19,14302.40,Uninsured,11,Referred,4.40,60+
+PID00324,Hospital_29,Chicago,General Surgery,Female,55,20-11-2023,Cancer,3038.14,Medicare,17,Referred,1.00,36-60
+PID00325,Hospital_11,Houston,Cardiology,Other,20,21-11-2023,Flu,1448.02,Medicare,12,Recovered,1.90,19-35
+PID00326,Hospital_20,New York,Pediatrics,Other,51,22-11-2023,Diabetes,12164.27,Uninsured,6,Referred,2.90,36-60
+PID00327,Hospital_23,Miami,Orthopedics,Male,68,23-11-2023,Fracture,13467.96,Medicare,6,Recovered,1.60,60+
+PID00328,Hospital_5,Phoenix,Oncology,Female,14,24-11-2023,Flu,12887.04,Uninsured,3,Deceased,3.10,0-18
+PID00329,Hospital_30,Miami,Oncology,Male,54,25-11-2023,Heart Disease,12409.51,Uninsured,4,Deceased,2.00,36-60
+PID00330,Hospital_1,Los Angeles,Oncology,Male,88,26-11-2023,Flu,6342.68,Medicaid,10,Referred,2.50,60+
+PID00331,Hospital_27,New York,Pediatrics,Male,9,27-11-2023,Heart Disease,6262.81,Uninsured,10,Referred,4.10,0-18
+PID00332,Hospital_24,Seattle,Oncology,Other,27,28-11-2023,Cancer,5219.43,Private,12,Referred,1.20,19-35
+PID00333,Hospital_17,Houston,Neurology,Male,53,29-11-2023,Fracture,8814.44,Uninsured,5,Recovered,4.40,36-60
+PID00334,Hospital_26,Los Angeles,Oncology,Female,31,30-11-2023,Covid-19,2883.10,Medicaid,17,Referred,3.20,19-35
+PID00335,Hospital_17,Seattle,Oncology,Male,41,01-12-2023,Diabetes,12941.99,Uninsured,11,Recovered,2.30,36-60
+PID00336,Hospital_22,Atlanta,Orthopedics,Male,86,02-12-2023,Heart Disease,8874.11,Private,12,Recovered,1.70,60+
+PID00337,Hospital_29,New York,General Surgery,Female,12,03-12-2023,Fracture,5100.84,Uninsured,3,Recovered,1.10,0-18
+PID00338,Hospital_11,Phoenix,Emergency,Male,84,04-12-2023,Flu,5834.56,Private,9,Recovered,4.90,60+
+PID00339,Hospital_21,Phoenix,Oncology,Other,29,05-12-2023,Heart Disease,7050.83,Medicare,8,Recovered,4.50,19-35
+PID00340,Hospital_30,Los Angeles,Orthopedics,Female,21,06-12-2023,Cancer,4301.19,Medicaid,12,Deceased,3.70,19-35
+PID00341,Hospital_24,Los Angeles,General Surgery,Female,25,07-12-2023,Fracture,3140.74,Medicare,8,Deceased,2.80,19-35
+PID00342,Hospital_21,New York,Orthopedics,Other,64,08-12-2023,Covid-19,5920.88,Uninsured,20,Recovered,2.60,60+
+PID00343,Hospital_1,Phoenix,Cardiology,Other,6,09-12-2023,Covid-19,1400.41,Medicaid,12,Recovered,3.20,0-18
+PID00344,Hospital_22,Miami,General Surgery,Male,41,10-12-2023,Covid-19,11244.98,Medicare,1,Recovered,1.90,36-60
+PID00345,Hospital_22,Atlanta,Orthopedics,Male,56,11-12-2023,Flu,11787.41,Uninsured,4,Referred,3.20,36-60
+PID00346,Hospital_7,Atlanta,Cardiology,Female,63,12-12-2023,Flu,6932.95,Private,9,Referred,2.40,60+
+PID00347,Hospital_9,Houston,Cardiology,Male,85,13-12-2023,Fracture,6212.94,Medicare,5,Referred,4.80,60+
+PID00348,Hospital_12,Chicago,Pediatrics,Male,3,14-12-2023,Diabetes,6043.94,Private,2,Recovered,2.10,0-18
+PID00349,Hospital_14,Chicago,Orthopedics,Other,74,15-12-2023,Covid-19,10355.69,Uninsured,18,Recovered,5.00,60+
+PID00350,Hospital_20,Chicago,General Surgery,Other,25,16-12-2023,Cancer,10967.00,Uninsured,3,Referred,4.60,19-35
+PID00351,Hospital_3,Miami,Oncology,Male,52,17-12-2023,Migraine,5556.96,Medicaid,12,Deceased,3.90,36-60
+PID00352,Hospital_10,Los Angeles,Pediatrics,Male,18,18-12-2023,Diabetes,3476.21,Private,15,Recovered,2.00,0-18
+PID00353,Hospital_15,Chicago,General Surgery,Other,86,19-12-2023,Heart Disease,8745.75,Uninsured,18,Referred,3.20,60+
+PID00354,Hospital_28,Chicago,Orthopedics,Other,22,20-12-2023,Heart Disease,14278.35,Private,2,Recovered,3.70,19-35
+PID00355,Hospital_13,Phoenix,Orthopedics,Male,10,21-12-2023,Migraine,3261.78,Uninsured,9,Recovered,3.30,0-18
+PID00356,Hospital_28,Atlanta,Orthopedics,Other,18,22-12-2023,Fracture,12595.35,Medicaid,16,Recovered,3.10,0-18
+PID00357,Hospital_18,Houston,Neurology,Female,49,23-12-2023,Fracture,10360.07,Private,18,Recovered,4.70,36-60
+PID00358,Hospital_13,Los Angeles,General Surgery,Male,6,24-12-2023,Covid-19,7692.38,Medicare,12,Recovered,4.80,0-18
+PID00359,Hospital_11,Houston,Cardiology,Other,54,25-12-2023,Flu,3450.62,Medicare,9,Recovered,4.70,36-60
+PID00360,Hospital_28,Seattle,Pediatrics,Female,5,26-12-2023,Migraine,8785.64,Medicare,15,Recovered,3.10,0-18
+PID00361,Hospital_12,Atlanta,Emergency,Female,43,27-12-2023,Diabetes,7138.98,Uninsured,8,Recovered,4.70,36-60
+PID00362,Hospital_4,Atlanta,Neurology,Male,52,28-12-2023,Flu,13994.46,Private,1,Recovered,4.90,36-60
+PID00363,Hospital_17,Houston,General Surgery,Male,10,29-12-2023,Covid-19,4763.60,Private,17,Referred,4.90,0-18
+PID00364,Hospital_15,Chicago,Oncology,Female,21,30-12-2023,Diabetes,14482.43,Private,11,Referred,4.50,19-35
+PID00365,Hospital_24,New York,Oncology,Other,36,31-12-2023,Covid-19,8747.49,Uninsured,6,Recovered,1.00,36-60
+PID00366,Hospital_17,Houston,Oncology,Male,28,01-01-2024,Migraine,11014.91,Private,8,Deceased,1.20,19-35
+PID00367,Hospital_22,Houston,General Surgery,Female,88,02-01-2024,Covid-19,6514.70,Uninsured,11,Deceased,4.20,60+
+PID00368,Hospital_4,Phoenix,Orthopedics,Male,79,03-01-2024,Diabetes,13313.66,Private,16,Deceased,4.80,60+
+PID00369,Hospital_11,Houston,General Surgery,Other,87,04-01-2024,Migraine,14627.28,Uninsured,9,Deceased,1.50,60+
+PID00370,Hospital_17,Seattle,Neurology,Other,34,05-01-2024,Diabetes,11130.25,Medicare,16,Recovered,2.50,19-35
+PID00371,Hospital_26,Houston,General Surgery,Male,90,06-01-2024,Flu,12811.95,Private,3,Recovered,1.80,60+
+PID00372,Hospital_10,Seattle,Cardiology,Other,32,07-01-2024,Migraine,8490.64,Medicare,8,Recovered,1.90,19-35
+PID00373,Hospital_20,Phoenix,Oncology,Other,81,08-01-2024,Covid-19,2464.15,Private,18,Referred,2.50,60+
+PID00374,Hospital_6,Atlanta,Neurology,Other,15,09-01-2024,Cancer,8313.88,Medicaid,15,Referred,3.60,0-18
+PID00375,Hospital_25,Miami,Cardiology,Other,2,10-01-2024,Covid-19,8482.02,Medicaid,20,Deceased,3.50,0-18
+PID00376,Hospital_16,Houston,Neurology,Other,37,11-01-2024,Cancer,3757.71,Medicare,8,Deceased,3.60,36-60
+PID00377,Hospital_24,Atlanta,General Surgery,Other,10,12-01-2024,Heart Disease,8444.09,Private,14,Referred,2.10,0-18
+PID00378,Hospital_2,New York,Cardiology,Female,60,13-01-2024,Diabetes,4659.21,Medicaid,3,Recovered,3.20,36-60
+PID00379,Hospital_13,Chicago,Pediatrics,Female,55,14-01-2024,Migraine,14163.20,Medicaid,8,Referred,2.30,36-60
+PID00380,Hospital_17,Los Angeles,General Surgery,Male,65,15-01-2024,Heart Disease,571.95,Medicare,3,Recovered,4.70,60+
+PID00381,Hospital_4,Seattle,General Surgery,Male,68,16-01-2024,Covid-19,3670.94,Private,19,Deceased,3.00,60+
+PID00382,Hospital_24,Los Angeles,Cardiology,Female,56,17-01-2024,Diabetes,6154.64,Uninsured,4,Recovered,3.40,36-60
+PID00383,Hospital_22,Seattle,Emergency,Female,3,18-01-2024,Covid-19,5163.19,Uninsured,16,Referred,2.60,0-18
+PID00384,Hospital_7,Phoenix,Orthopedics,Female,47,19-01-2024,Migraine,12975.32,Private,1,Referred,4.40,36-60
+PID00385,Hospital_15,Miami,General Surgery,Female,47,20-01-2024,Cancer,1110.87,Private,4,Referred,4.50,36-60
+PID00386,Hospital_3,Miami,Pediatrics,Female,13,21-01-2024,Migraine,9841.16,Private,19,Deceased,1.10,0-18
+PID00387,Hospital_13,Houston,Emergency,Other,90,22-01-2024,Fracture,4657.35,Uninsured,10,Referred,3.00,60+
+PID00388,Hospital_9,Miami,Oncology,Male,3,23-01-2024,Heart Disease,7736.26,Medicaid,10,Referred,5.00,0-18
+PID00389,Hospital_3,Phoenix,Pediatrics,Female,12,24-01-2024,Covid-19,11995.16,Medicare,2,Recovered,2.50,0-18
+PID00390,Hospital_30,Atlanta,Cardiology,Other,71,25-01-2024,Covid-19,11962.26,Medicaid,14,Deceased,2.00,60+
+PID00391,Hospital_9,Miami,Neurology,Female,52,26-01-2024,Heart Disease,2027.38,Private,14,Recovered,2.30,36-60
+PID00392,Hospital_11,Miami,Orthopedics,Female,36,27-01-2024,Diabetes,14865.65,Medicaid,15,Referred,1.30,36-60
+PID00393,Hospital_26,Seattle,General Surgery,Other,62,28-01-2024,Cancer,6584.42,Private,1,Referred,1.10,60+
+PID00394,Hospital_9,Miami,Orthopedics,Other,51,29-01-2024,Heart Disease,9128.78,Medicaid,9,Recovered,4.10,36-60
+PID00395,Hospital_4,Los Angeles,General Surgery,Male,59,30-01-2024,Diabetes,2056.98,Medicaid,18,Recovered,1.60,36-60
+PID00396,Hospital_28,Chicago,Oncology,Female,40,31-01-2024,Flu,14736.95,Private,9,Recovered,2.80,36-60
+PID00397,Hospital_8,Phoenix,Cardiology,Female,56,01-02-2024,Migraine,8537.20,Medicaid,2,Referred,4.60,36-60
+PID00398,Hospital_7,Phoenix,Neurology,Female,27,02-02-2024,Migraine,11610.22,Uninsured,20,Referred,2.60,19-35
+PID00399,Hospital_23,Seattle,Neurology,Male,87,03-02-2024,Heart Disease,7509.63,Uninsured,17,Referred,2.10,60+
+PID00400,Hospital_28,Chicago,Neurology,Female,29,04-02-2024,Diabetes,785.77,Medicaid,1,Deceased,1.70,19-35
+PID00401,Hospital_30,Phoenix,Cardiology,Other,20,05-02-2024,Heart Disease,2187.68,Medicare,6,Referred,2.50,19-35
+PID00402,Hospital_20,Miami,Emergency,Male,24,06-02-2024,Fracture,3870.26,Medicaid,17,Recovered,3.00,19-35
+PID00403,Hospital_4,Atlanta,Pediatrics,Female,46,07-02-2024,Flu,4675.22,Medicaid,4,Referred,3.90,36-60
+PID00404,Hospital_30,Chicago,Oncology,Other,21,08-02-2024,Heart Disease,907.22,Medicaid,14,Recovered,4.80,19-35
+PID00405,Hospital_29,Miami,Oncology,Male,49,09-02-2024,Flu,9907.32,Uninsured,11,Deceased,5.00,36-60
+PID00406,Hospital_6,Miami,Cardiology,Other,34,10-02-2024,Cancer,4906.70,Medicare,6,Referred,1.10,19-35
+PID00407,Hospital_5,Phoenix,Oncology,Other,51,11-02-2024,Cancer,13599.37,Medicaid,11,Deceased,1.40,36-60
+PID00408,Hospital_25,Seattle,Emergency,Other,4,12-02-2024,Cancer,10124.12,Uninsured,3,Recovered,4.90,0-18
+PID00409,Hospital_15,New York,Emergency,Other,42,13-02-2024,Migraine,10355.36,Medicare,9,Deceased,3.40,36-60
+PID00410,Hospital_16,Chicago,General Surgery,Other,88,14-02-2024,Cancer,5867.05,Medicaid,16,Recovered,2.20,60+
+PID00411,Hospital_2,Miami,Cardiology,Female,71,15-02-2024,Migraine,11680.31,Uninsured,12,Recovered,1.50,60+
+PID00412,Hospital_22,Miami,Cardiology,Male,36,16-02-2024,Flu,4186.95,Medicaid,18,Deceased,2.80,36-60
+PID00413,Hospital_4,Los Angeles,Orthopedics,Other,71,17-02-2024,Heart Disease,10964.36,Private,12,Deceased,1.50,60+
+PID00414,Hospital_3,New York,Orthopedics,Other,85,18-02-2024,Diabetes,5993.98,Uninsured,7,Recovered,4.90,60+
+PID00415,Hospital_6,Houston,Pediatrics,Male,41,19-02-2024,Covid-19,5490.59,Private,14,Recovered,3.50,36-60
+PID00416,Hospital_14,Seattle,Pediatrics,Other,8,20-02-2024,Heart Disease,9699.32,Private,16,Recovered,4.70,0-18
+PID00417,Hospital_25,Houston,Neurology,Other,39,21-02-2024,Heart Disease,11283.30,Medicare,3,Deceased,2.40,36-60
+PID00418,Hospital_16,Los Angeles,Cardiology,Female,16,22-02-2024,Flu,5666.79,Uninsured,5,Referred,3.70,0-18
+PID00419,Hospital_15,Phoenix,Neurology,Other,88,23-02-2024,Flu,6503.28,Medicare,20,Recovered,2.00,60+
+PID00420,Hospital_24,Atlanta,Neurology,Female,83,24-02-2024,Cancer,4964.14,Private,7,Referred,4.60,60+
+PID00421,Hospital_11,Los Angeles,Oncology,Other,55,25-02-2024,Flu,1520.44,Medicare,15,Referred,4.70,36-60
+PID00422,Hospital_24,Seattle,Oncology,Female,15,26-02-2024,Covid-19,13328.85,Medicare,18,Deceased,3.00,0-18
+PID00423,Hospital_6,Chicago,General Surgery,Male,31,27-02-2024,Diabetes,10231.58,Uninsured,3,Deceased,1.30,19-35
+PID00424,Hospital_17,New York,Orthopedics,Other,36,28-02-2024,Covid-19,2101.55,Medicare,13,Deceased,3.40,36-60
+PID00425,Hospital_30,Phoenix,Cardiology,Male,68,29-02-2024,Fracture,1401.87,Medicare,8,Recovered,1.70,60+
+PID00426,Hospital_3,New York,Orthopedics,Male,27,01-03-2024,Migraine,12994.54,Uninsured,12,Deceased,2.60,19-35
+PID00427,Hospital_8,Phoenix,Oncology,Other,48,02-03-2024,Migraine,7474.81,Medicare,19,Recovered,4.00,36-60
+PID00428,Hospital_16,Miami,Oncology,Other,57,03-03-2024,Cancer,6230.56,Private,3,Recovered,2.90,36-60
+PID00429,Hospital_4,Miami,Oncology,Male,65,04-03-2024,Diabetes,9834.57,Uninsured,19,Deceased,1.30,60+
+PID00430,Hospital_24,Houston,Orthopedics,Female,5,05-03-2024,Migraine,1637.68,Uninsured,2,Deceased,4.00,0-18
+PID00431,Hospital_14,Seattle,Cardiology,Male,36,06-03-2024,Fracture,14309.84,Medicare,4,Deceased,1.80,36-60
+PID00432,Hospital_25,Los Angeles,Pediatrics,Male,47,07-03-2024,Heart Disease,11695.69,Medicare,19,Deceased,4.40,36-60
+PID00433,Hospital_8,Phoenix,Emergency,Male,56,08-03-2024,Fracture,13806.09,Uninsured,3,Referred,4.20,36-60
+PID00434,Hospital_29,Phoenix,Orthopedics,Other,66,09-03-2024,Covid-19,13773.08,Private,7,Referred,2.50,60+
+PID00435,Hospital_30,Atlanta,General Surgery,Male,37,10-03-2024,Migraine,9426.43,Medicaid,18,Deceased,1.40,36-60
+PID00436,Hospital_8,Chicago,Oncology,Female,19,11-03-2024,Covid-19,6574.78,Uninsured,10,Referred,1.30,19-35
+PID00437,Hospital_15,Houston,Neurology,Other,42,12-03-2024,Cancer,4215.37,Medicare,12,Deceased,2.90,36-60
+PID00438,Hospital_7,Houston,Oncology,Male,43,13-03-2024,Covid-19,4601.35,Medicare,2,Referred,3.30,36-60
+PID00439,Hospital_26,Phoenix,Emergency,Male,88,14-03-2024,Migraine,6821.26,Medicaid,8,Referred,2.60,60+
+PID00440,Hospital_7,Houston,Oncology,Other,65,15-03-2024,Diabetes,898.44,Medicaid,18,Referred,4.80,60+
+PID00441,Hospital_18,Houston,Neurology,Other,85,16-03-2024,Fracture,9849.50,Medicaid,17,Referred,4.20,60+
+PID00442,Hospital_29,Houston,Neurology,Male,18,17-03-2024,Flu,13652.12,Private,6,Deceased,4.90,0-18
+PID00443,Hospital_15,Seattle,Pediatrics,Female,70,18-03-2024,Diabetes,7309.33,Medicare,7,Deceased,2.80,60+
+PID00444,Hospital_2,New York,Neurology,Other,27,19-03-2024,Flu,7720.96,Medicaid,18,Deceased,2.50,19-35
+PID00445,Hospital_24,Seattle,General Surgery,Other,72,20-03-2024,Covid-19,11333.29,Private,6,Recovered,4.50,60+
+PID00446,Hospital_5,Seattle,Emergency,Male,86,21-03-2024,Fracture,7421.35,Medicaid,3,Referred,1.70,60+
+PID00447,Hospital_27,Phoenix,Neurology,Female,7,22-03-2024,Cancer,1396.50,Uninsured,12,Recovered,1.70,0-18
+PID00448,Hospital_23,New York,Emergency,Female,73,23-03-2024,Covid-19,13317.24,Medicaid,5,Deceased,2.40,60+
+PID00449,Hospital_11,Los Angeles,Cardiology,Male,54,24-03-2024,Migraine,11352.40,Private,4,Deceased,2.70,36-60
+PID00450,Hospital_3,Chicago,Oncology,Male,89,25-03-2024,Heart Disease,12847.68,Medicaid,18,Referred,2.60,60+
+PID00451,Hospital_30,Chicago,Pediatrics,Other,70,26-03-2024,Diabetes,9726.38,Medicaid,16,Deceased,3.90,60+
+PID00452,Hospital_18,Chicago,Pediatrics,Female,71,27-03-2024,Cancer,10908.02,Medicaid,2,Recovered,3.60,60+
+PID00453,Hospital_15,Seattle,Cardiology,Female,67,28-03-2024,Flu,11799.08,Medicare,4,Recovered,4.60,60+
+PID00454,Hospital_27,Atlanta,Cardiology,Female,36,29-03-2024,Diabetes,5116.84,Uninsured,2,Deceased,4.20,36-60
+PID00455,Hospital_28,New York,General Surgery,Male,57,30-03-2024,Diabetes,6804.72,Medicare,12,Recovered,1.30,36-60
+PID00456,Hospital_11,Phoenix,Emergency,Male,5,31-03-2024,Cancer,13552.27,Private,2,Deceased,4.10,0-18
+PID00457,Hospital_2,Seattle,Cardiology,Female,76,01-04-2024,Diabetes,14399.73,Medicare,2,Deceased,2.70,60+
+PID00458,Hospital_25,Los Angeles,Oncology,Other,48,02-04-2024,Diabetes,12024.22,Medicaid,2,Deceased,1.20,36-60
+PID00459,Hospital_2,Miami,Neurology,Female,83,03-04-2024,Migraine,4042.31,Medicare,13,Deceased,4.80,60+
+PID00460,Hospital_25,Atlanta,Emergency,Female,14,04-04-2024,Covid-19,1750.38,Private,4,Referred,1.60,0-18
+PID00461,Hospital_29,Chicago,Orthopedics,Male,6,05-04-2024,Covid-19,5137.21,Private,17,Deceased,4.90,0-18
+PID00462,Hospital_25,Miami,Cardiology,Female,71,06-04-2024,Diabetes,10090.69,Medicaid,10,Recovered,1.70,60+
+PID00463,Hospital_27,Phoenix,Emergency,Other,24,07-04-2024,Heart Disease,2564.28,Uninsured,10,Deceased,4.20,19-35
+PID00464,Hospital_15,Houston,Emergency,Other,77,08-04-2024,Heart Disease,1844.31,Medicare,2,Referred,2.30,60+
+PID00465,Hospital_17,Phoenix,General Surgery,Female,84,09-04-2024,Cancer,5167.77,Uninsured,15,Referred,1.10,60+
+PID00466,Hospital_30,Miami,General Surgery,Male,51,10-04-2024,Covid-19,5499.10,Medicaid,20,Referred,4.70,36-60
+PID00467,Hospital_22,Miami,Emergency,Female,8,11-04-2024,Fracture,3158.20,Medicare,13,Recovered,4.60,0-18
+PID00468,Hospital_30,Los Angeles,Orthopedics,Male,52,12-04-2024,Migraine,13940.81,Medicaid,17,Deceased,4.40,36-60
+PID00469,Hospital_19,Seattle,Pediatrics,Female,36,13-04-2024,Heart Disease,8600.82,Medicare,2,Recovered,4.90,36-60
+PID00470,Hospital_5,Chicago,Oncology,Male,36,14-04-2024,Fracture,11791.59,Medicaid,9,Referred,3.50,36-60
+PID00471,Hospital_16,Miami,Orthopedics,Female,46,15-04-2024,Covid-19,5767.00,Medicare,18,Recovered,3.00,36-60
+PID00472,Hospital_29,Chicago,Cardiology,Male,58,16-04-2024,Cancer,9846.58,Uninsured,9,Deceased,2.70,36-60
+PID00473,Hospital_15,Los Angeles,Pediatrics,Male,82,17-04-2024,Covid-19,1409.33,Private,19,Referred,1.50,60+
+PID00474,Hospital_29,Los Angeles,Neurology,Male,74,18-04-2024,Covid-19,5576.92,Medicaid,16,Deceased,2.80,60+
+PID00475,Hospital_8,Miami,Cardiology,Male,13,19-04-2024,Migraine,14380.85,Medicaid,1,Deceased,3.20,0-18
+PID00476,Hospital_23,Los Angeles,Cardiology,Female,76,20-04-2024,Cancer,7759.47,Medicaid,7,Recovered,2.70,60+
+PID00477,Hospital_26,Phoenix,Cardiology,Female,69,21-04-2024,Diabetes,14145.56,Private,7,Referred,1.80,60+
+PID00478,Hospital_18,Atlanta,Pediatrics,Male,85,22-04-2024,Migraine,11008.87,Medicaid,16,Referred,1.60,60+
+PID00479,Hospital_27,Chicago,Orthopedics,Other,68,23-04-2024,Heart Disease,11263.34,Medicaid,16,Recovered,2.30,60+
+PID00480,Hospital_9,Atlanta,Oncology,Female,81,24-04-2024,Covid-19,2721.51,Uninsured,13,Deceased,3.50,60+
+PID00481,Hospital_24,New York,Neurology,Female,26,25-04-2024,Flu,6571.58,Medicaid,4,Deceased,2.40,19-35
+PID00482,Hospital_7,Houston,Cardiology,Other,45,26-04-2024,Cancer,8166.02,Uninsured,5,Deceased,3.00,36-60
+PID00483,Hospital_24,Houston,Oncology,Male,40,27-04-2024,Migraine,10055.71,Medicaid,14,Deceased,3.60,36-60
+PID00484,Hospital_30,Houston,General Surgery,Male,60,28-04-2024,Fracture,6589.34,Medicare,4,Deceased,1.70,36-60
+PID00485,Hospital_5,Chicago,Neurology,Male,55,29-04-2024,Fracture,10614.07,Medicaid,11,Recovered,2.10,36-60
+PID00486,Hospital_3,Chicago,Neurology,Female,22,30-04-2024,Covid-19,8944.09,Uninsured,15,Referred,3.80,19-35
+PID00487,Hospital_2,Los Angeles,General Surgery,Other,32,01-05-2024,Covid-19,3660.49,Private,1,Deceased,4.40,19-35
+PID00488,Hospital_20,Atlanta,Orthopedics,Male,57,02-05-2024,Heart Disease,5626.88,Medicaid,15,Recovered,1.00,36-60
+PID00489,Hospital_18,Seattle,General Surgery,Male,35,03-05-2024,Flu,11835.45,Private,10,Recovered,4.30,19-35
+PID00490,Hospital_19,Chicago,Oncology,Other,5,04-05-2024,Cancer,11682.54,Medicaid,19,Recovered,2.40,0-18
+PID00491,Hospital_22,Miami,Oncology,Female,14,05-05-2024,Heart Disease,8829.90,Medicare,20,Referred,1.20,0-18
+PID00492,Hospital_20,Miami,Pediatrics,Male,13,06-05-2024,Flu,6798.00,Uninsured,18,Deceased,1.30,0-18
+PID00493,Hospital_16,Miami,Cardiology,Female,19,07-05-2024,Heart Disease,10147.02,Medicare,12,Referred,1.00,19-35
+PID00494,Hospital_13,Houston,Orthopedics,Other,89,08-05-2024,Fracture,11127.53,Medicaid,12,Recovered,4.20,60+
+PID00495,Hospital_19,Atlanta,Oncology,Male,79,09-05-2024,Diabetes,3756.08,Uninsured,18,Recovered,4.80,60+
+PID00496,Hospital_18,Houston,Cardiology,Male,47,10-05-2024,Cancer,664.14,Uninsured,17,Recovered,3.90,36-60
+PID00497,Hospital_12,Chicago,Neurology,Other,60,11-05-2024,Cancer,1406.24,Medicaid,17,Recovered,2.20,36-60
+PID00498,Hospital_7,Seattle,General Surgery,Other,39,12-05-2024,Heart Disease,13088.39,Medicaid,14,Deceased,3.60,36-60
+PID00499,Hospital_22,Atlanta,Cardiology,Other,41,13-05-2024,Heart Disease,4086.38,Private,5,Deceased,2.90,36-60
+PID00500,Hospital_24,Phoenix,Cardiology,Female,36,14-05-2024,Diabetes,596.52,Medicare,3,Recovered,2.00,36-60
+PID00501,Hospital_5,New York,Emergency,Female,50,15-05-2024,Migraine,9162.48,Private,17,Recovered,1.20,36-60
+PID00502,Hospital_17,Phoenix,Cardiology,Male,71,16-05-2024,Heart Disease,1758.02,Medicaid,17,Referred,1.60,60+
+PID00503,Hospital_6,Los Angeles,Neurology,Male,66,17-05-2024,Covid-19,2099.17,Private,14,Deceased,3.20,60+
+PID00504,Hospital_24,Houston,Orthopedics,Male,74,18-05-2024,Migraine,5505.86,Medicare,11,Referred,3.60,60+
+PID00505,Hospital_22,Miami,Neurology,Other,15,19-05-2024,Flu,1480.81,Medicaid,12,Recovered,3.50,0-18
+PID00506,Hospital_3,Houston,General Surgery,Male,64,20-05-2024,Flu,11536.92,Medicare,13,Recovered,4.00,60+
+PID00507,Hospital_30,Houston,Oncology,Male,61,21-05-2024,Heart Disease,4918.49,Medicare,7,Referred,2.10,60+
+PID00508,Hospital_8,Miami,Oncology,Other,64,22-05-2024,Diabetes,7313.49,Private,10,Recovered,2.40,60+
+PID00509,Hospital_19,Houston,Pediatrics,Female,43,23-05-2024,Flu,5705.15,Medicaid,13,Deceased,3.90,36-60
+PID00510,Hospital_4,Atlanta,Cardiology,Other,39,24-05-2024,Diabetes,1310.22,Uninsured,11,Referred,2.50,36-60
+PID00511,Hospital_7,Houston,Pediatrics,Female,16,25-05-2024,Covid-19,14760.98,Medicare,4,Referred,2.30,0-18
+PID00512,Hospital_15,Chicago,Neurology,Other,37,26-05-2024,Fracture,14058.49,Medicaid,19,Recovered,4.10,36-60
+PID00513,Hospital_29,Phoenix,Oncology,Female,24,27-05-2024,Covid-19,1728.33,Medicaid,6,Deceased,1.80,19-35
+PID00514,Hospital_21,Chicago,Neurology,Other,15,28-05-2024,Fracture,4857.96,Uninsured,16,Referred,3.30,0-18
+PID00515,Hospital_24,Seattle,Orthopedics,Female,89,29-05-2024,Fracture,14847.91,Uninsured,14,Deceased,1.90,60+
+PID00516,Hospital_18,Phoenix,Orthopedics,Female,12,30-05-2024,Flu,5673.54,Private,7,Deceased,4.00,0-18
+PID00517,Hospital_11,Phoenix,Emergency,Female,40,31-05-2024,Heart Disease,11608.63,Medicare,8,Recovered,2.40,36-60
+PID00518,Hospital_15,New York,Orthopedics,Other,1,01-06-2024,Cancer,12690.78,Medicare,13,Referred,3.30,0-18
+PID00519,Hospital_17,Seattle,Orthopedics,Male,5,02-06-2024,Flu,2883.13,Medicare,10,Recovered,1.90,0-18
+PID00520,Hospital_8,Los Angeles,Emergency,Male,58,03-06-2024,Covid-19,12585.19,Uninsured,8,Recovered,3.00,36-60
+PID00521,Hospital_2,Miami,Neurology,Female,73,04-06-2024,Migraine,5040.32,Medicare,13,Deceased,1.50,60+
+PID00522,Hospital_22,Atlanta,Emergency,Male,69,05-06-2024,Migraine,4201.94,Medicaid,17,Referred,2.60,60+
+PID00523,Hospital_28,Miami,Cardiology,Female,29,06-06-2024,Flu,4616.56,Uninsured,3,Referred,2.10,19-35
+PID00524,Hospital_21,Miami,General Surgery,Male,53,07-06-2024,Heart Disease,5303.20,Medicaid,5,Deceased,4.10,36-60
+PID00525,Hospital_26,Los Angeles,Neurology,Female,70,08-06-2024,Fracture,11243.05,Uninsured,18,Recovered,4.20,60+
+PID00526,Hospital_27,Chicago,Oncology,Male,86,09-06-2024,Cancer,7974.99,Uninsured,9,Referred,3.20,60+
+PID00527,Hospital_1,Phoenix,Emergency,Male,89,10-06-2024,Flu,13053.63,Private,20,Recovered,3.70,60+
+PID00528,Hospital_15,Miami,Pediatrics,Other,43,11-06-2024,Flu,720.11,Medicaid,2,Deceased,3.00,36-60
+PID00529,Hospital_12,Atlanta,Neurology,Male,17,12-06-2024,Diabetes,4950.79,Uninsured,12,Deceased,1.80,0-18
+PID00530,Hospital_4,Seattle,Neurology,Other,47,13-06-2024,Diabetes,983.73,Medicare,2,Referred,3.50,36-60
+PID00531,Hospital_28,Phoenix,Cardiology,Other,83,14-06-2024,Cancer,3208.37,Medicare,16,Referred,2.80,60+
+PID00532,Hospital_6,Atlanta,Emergency,Male,24,15-06-2024,Cancer,9649.41,Uninsured,8,Referred,4.60,19-35
+PID00533,Hospital_10,Phoenix,Neurology,Other,72,16-06-2024,Migraine,10404.97,Medicare,18,Recovered,3.30,60+
+PID00534,Hospital_15,Houston,General Surgery,Male,6,17-06-2024,Heart Disease,8687.36,Private,4,Deceased,4.30,0-18
+PID00535,Hospital_25,New York,General Surgery,Female,11,18-06-2024,Cancer,12899.52,Medicare,6,Referred,2.50,0-18
+PID00536,Hospital_27,Miami,Emergency,Female,68,19-06-2024,Heart Disease,5038.38,Uninsured,11,Referred,3.90,60+
+PID00537,Hospital_26,Atlanta,Pediatrics,Female,19,20-06-2024,Migraine,12578.73,Uninsured,10,Deceased,2.00,19-35
+PID00538,Hospital_4,New York,General Surgery,Female,38,21-06-2024,Migraine,12720.79,Uninsured,17,Deceased,2.50,36-60
+PID00539,Hospital_18,Seattle,Pediatrics,Male,64,22-06-2024,Migraine,4416.53,Uninsured,13,Recovered,1.30,60+
+PID00540,Hospital_17,Miami,Emergency,Female,35,23-06-2024,Flu,14883.00,Medicaid,20,Deceased,3.20,19-35
+PID00541,Hospital_7,Atlanta,Oncology,Female,56,24-06-2024,Heart Disease,1931.63,Medicaid,1,Referred,2.60,36-60
+PID00542,Hospital_29,Chicago,Oncology,Female,74,25-06-2024,Fracture,6202.87,Medicare,10,Deceased,4.70,60+
+PID00543,Hospital_11,Atlanta,Orthopedics,Male,27,26-06-2024,Fracture,7518.88,Uninsured,20,Recovered,3.80,19-35
+PID00544,Hospital_7,Houston,Oncology,Male,66,27-06-2024,Cancer,8246.57,Medicare,7,Referred,4.00,60+
+PID00545,Hospital_12,Chicago,General Surgery,Male,14,28-06-2024,Diabetes,2163.78,Medicaid,9,Referred,5.00,0-18
+PID00546,Hospital_2,Houston,Emergency,Female,31,29-06-2024,Migraine,12247.38,Uninsured,18,Deceased,2.50,19-35
+PID00547,Hospital_17,Atlanta,Orthopedics,Male,48,30-06-2024,Covid-19,2245.76,Uninsured,19,Referred,1.50,36-60
+PID00548,Hospital_5,Miami,Oncology,Male,10,01-07-2024,Flu,10376.28,Uninsured,13,Referred,3.10,0-18
+PID00549,Hospital_4,New York,Oncology,Male,85,02-07-2024,Flu,4014.27,Private,18,Deceased,1.10,60+
+PID00550,Hospital_27,Miami,General Surgery,Other,10,03-07-2024,Migraine,7576.87,Medicaid,12,Recovered,3.70,0-18
+PID00551,Hospital_22,Miami,Orthopedics,Female,38,04-07-2024,Cancer,1988.26,Medicare,8,Deceased,1.10,36-60
+PID00552,Hospital_29,Houston,Orthopedics,Other,55,05-07-2024,Cancer,4921.20,Private,19,Deceased,1.60,36-60
+PID00553,Hospital_13,Miami,Neurology,Male,71,06-07-2024,Fracture,11016.81,Private,16,Deceased,4.40,60+
+PID00554,Hospital_9,Chicago,Oncology,Other,58,07-07-2024,Migraine,13321.73,Medicare,16,Deceased,2.90,36-60
+PID00555,Hospital_19,Chicago,Pediatrics,Male,23,08-07-2024,Migraine,10264.48,Private,4,Deceased,4.60,19-35
+PID00556,Hospital_3,Chicago,General Surgery,Male,58,09-07-2024,Covid-19,2828.56,Private,16,Recovered,2.80,36-60
+PID00557,Hospital_12,Phoenix,Cardiology,Male,69,10-07-2024,Covid-19,9901.80,Uninsured,15,Deceased,3.00,60+
+PID00558,Hospital_22,Chicago,Emergency,Male,40,11-07-2024,Diabetes,8375.28,Medicaid,19,Referred,1.40,36-60
+PID00559,Hospital_21,New York,Oncology,Male,16,12-07-2024,Flu,2387.64,Medicaid,6,Referred,4.70,0-18
+PID00560,Hospital_6,Houston,Pediatrics,Other,87,13-07-2024,Diabetes,11486.93,Medicaid,12,Recovered,1.90,60+
+PID00561,Hospital_7,Phoenix,Cardiology,Female,68,14-07-2024,Diabetes,14596.10,Uninsured,13,Deceased,2.30,60+
+PID00562,Hospital_24,Seattle,Emergency,Other,84,15-07-2024,Fracture,7712.57,Medicaid,15,Deceased,3.00,60+
+PID00563,Hospital_16,Seattle,Emergency,Male,72,16-07-2024,Heart Disease,2466.93,Uninsured,20,Referred,3.50,60+
+PID00564,Hospital_17,Los Angeles,Pediatrics,Other,79,17-07-2024,Cancer,951.79,Uninsured,17,Referred,1.90,60+
+PID00565,Hospital_13,Houston,Orthopedics,Other,12,18-07-2024,Migraine,12448.59,Medicare,13,Deceased,1.40,0-18
+PID00566,Hospital_6,Phoenix,Pediatrics,Other,53,19-07-2024,Covid-19,13406.06,Medicare,5,Referred,1.90,36-60
+PID00567,Hospital_2,Miami,Cardiology,Female,2,20-07-2024,Diabetes,4346.77,Private,8,Referred,1.60,0-18
+PID00568,Hospital_19,Chicago,Oncology,Other,88,21-07-2024,Diabetes,11491.62,Medicaid,15,Referred,4.50,60+
+PID00569,Hospital_8,Phoenix,General Surgery,Male,25,22-07-2024,Fracture,7608.98,Medicaid,2,Deceased,4.90,19-35
+PID00570,Hospital_29,Los Angeles,Emergency,Male,58,23-07-2024,Cancer,10338.04,Private,9,Referred,3.60,36-60
+PID00571,Hospital_30,Atlanta,Neurology,Male,28,24-07-2024,Heart Disease,5530.03,Medicare,7,Deceased,4.90,19-35
+PID00572,Hospital_26,New York,Cardiology,Male,28,25-07-2024,Migraine,8829.95,Uninsured,16,Recovered,1.40,19-35
+PID00573,Hospital_1,Los Angeles,General Surgery,Female,15,26-07-2024,Flu,14413.04,Private,18,Recovered,5.00,0-18
+PID00574,Hospital_10,Houston,Cardiology,Female,17,27-07-2024,Migraine,12120.91,Medicare,11,Referred,3.70,0-18
+PID00575,Hospital_4,Houston,Cardiology,Other,51,28-07-2024,Fracture,10113.34,Private,2,Referred,3.50,36-60
+PID00576,Hospital_23,Seattle,Emergency,Female,62,29-07-2024,Migraine,8327.45,Medicaid,6,Referred,1.10,60+
+PID00577,Hospital_30,Chicago,Neurology,Male,69,30-07-2024,Heart Disease,5198.40,Uninsured,7,Recovered,4.10,60+
+PID00578,Hospital_9,Seattle,Emergency,Other,27,31-07-2024,Flu,591.80,Medicaid,12,Referred,1.60,19-35
+PID00579,Hospital_2,Seattle,Cardiology,Other,41,01-08-2024,Covid-19,5324.29,Medicaid,4,Deceased,2.90,36-60
+PID00580,Hospital_15,New York,Neurology,Female,4,02-08-2024,Cancer,855.48,Uninsured,14,Deceased,1.90,0-18
+PID00581,Hospital_22,Phoenix,Oncology,Female,17,03-08-2024,Fracture,4712.39,Medicare,8,Deceased,3.80,0-18
+PID00582,Hospital_1,New York,Orthopedics,Female,54,04-08-2024,Heart Disease,7282.05,Medicare,2,Deceased,4.10,36-60
+PID00583,Hospital_14,Houston,General Surgery,Other,9,05-08-2024,Migraine,11475.08,Uninsured,20,Recovered,3.40,0-18
+PID00584,Hospital_5,Phoenix,Oncology,Male,7,06-08-2024,Diabetes,9837.05,Medicare,7,Referred,1.30,0-18
+PID00585,Hospital_30,Miami,Emergency,Female,84,07-08-2024,Fracture,14074.21,Private,5,Referred,4.70,60+
+PID00586,Hospital_30,Miami,Orthopedics,Other,86,08-08-2024,Diabetes,6041.14,Medicare,17,Recovered,1.90,60+
+PID00587,Hospital_29,Miami,Emergency,Female,30,09-08-2024,Fracture,13469.58,Uninsured,17,Recovered,1.20,19-35
+PID00588,Hospital_1,Miami,Neurology,Female,34,10-08-2024,Fracture,8567.54,Medicaid,14,Recovered,4.00,19-35
+PID00589,Hospital_4,Houston,Cardiology,Male,81,11-08-2024,Fracture,3609.23,Uninsured,15,Recovered,2.80,60+
+PID00590,Hospital_4,Miami,Orthopedics,Other,21,12-08-2024,Fracture,11840.71,Medicare,16,Deceased,3.00,19-35
+PID00591,Hospital_10,Chicago,Neurology,Other,46,13-08-2024,Fracture,7125.87,Medicaid,7,Deceased,2.90,36-60
+PID00592,Hospital_16,Seattle,General Surgery,Female,13,14-08-2024,Migraine,9031.92,Uninsured,13,Deceased,4.30,0-18
+PID00593,Hospital_11,New York,Neurology,Other,18,15-08-2024,Fracture,14049.23,Medicare,2,Recovered,3.80,0-18
+PID00594,Hospital_20,Atlanta,Orthopedics,Male,3,16-08-2024,Heart Disease,13385.10,Private,10,Deceased,4.60,0-18
+PID00595,Hospital_2,Los Angeles,General Surgery,Male,67,17-08-2024,Diabetes,8957.89,Medicare,17,Referred,1.60,60+
+PID00596,Hospital_16,Los Angeles,Orthopedics,Male,6,18-08-2024,Flu,1928.24,Uninsured,14,Referred,3.50,0-18
+PID00597,Hospital_2,Miami,General Surgery,Other,15,19-08-2024,Heart Disease,12259.88,Uninsured,11,Deceased,2.90,0-18
+PID00598,Hospital_10,Atlanta,Cardiology,Female,38,20-08-2024,Diabetes,7863.37,Uninsured,7,Recovered,2.20,36-60
+PID00599,Hospital_11,Houston,Cardiology,Female,49,21-08-2024,Heart Disease,8728.18,Medicaid,16,Recovered,4.10,36-60
+PID00600,Hospital_6,Seattle,Neurology,Other,30,22-08-2024,Cancer,8727.29,Medicaid,15,Recovered,4.60,19-35
+PID00601,Hospital_8,Phoenix,Emergency,Other,72,23-08-2024,Diabetes,12664.53,Medicare,9,Referred,3.00,60+
+PID00602,Hospital_26,Seattle,Emergency,Male,42,24-08-2024,Covid-19,1437.66,Private,19,Deceased,2.60,36-60
+PID00603,Hospital_14,Los Angeles,Cardiology,Male,30,25-08-2024,Covid-19,3611.42,Medicare,4,Recovered,4.60,19-35
+PID00604,Hospital_24,Phoenix,Oncology,Female,46,26-08-2024,Covid-19,1344.97,Uninsured,13,Recovered,4.70,36-60
+PID00605,Hospital_20,New York,General Surgery,Other,29,27-08-2024,Migraine,3931.87,Medicare,17,Deceased,3.40,19-35
+PID00606,Hospital_12,Houston,General Surgery,Other,71,28-08-2024,Cancer,11582.82,Medicare,15,Referred,2.30,60+
+PID00607,Hospital_19,Miami,General Surgery,Other,23,29-08-2024,Flu,969.93,Private,9,Referred,4.80,19-35
+PID00608,Hospital_29,New York,General Surgery,Male,42,30-08-2024,Flu,14378.32,Private,14,Referred,3.50,36-60
+PID00609,Hospital_13,Miami,Oncology,Female,8,31-08-2024,Fracture,3179.45,Uninsured,12,Deceased,2.70,0-18
+PID00610,Hospital_25,Phoenix,Cardiology,Male,42,01-09-2024,Covid-19,2165.64,Uninsured,2,Referred,4.10,36-60
+PID00611,Hospital_13,Houston,Cardiology,Male,36,02-09-2024,Heart Disease,4096.07,Medicare,19,Recovered,3.10,36-60
+PID00612,Hospital_1,Seattle,Cardiology,Female,72,03-09-2024,Fracture,14489.15,Medicaid,17,Deceased,3.80,60+
+PID00613,Hospital_30,Houston,Cardiology,Male,18,04-09-2024,Heart Disease,14569.30,Uninsured,14,Deceased,1.50,0-18
+PID00614,Hospital_13,Phoenix,Oncology,Female,23,05-09-2024,Fracture,2229.13,Medicaid,14,Deceased,3.30,19-35
+PID00615,Hospital_10,Houston,General Surgery,Female,31,06-09-2024,Diabetes,11146.38,Medicaid,4,Referred,2.30,19-35
+PID00616,Hospital_25,Los Angeles,Cardiology,Male,51,07-09-2024,Flu,1102.10,Medicaid,10,Recovered,4.70,36-60
+PID00617,Hospital_11,Phoenix,Pediatrics,Female,31,08-09-2024,Migraine,12407.28,Uninsured,4,Deceased,2.00,19-35
+PID00618,Hospital_30,Chicago,General Surgery,Other,30,09-09-2024,Covid-19,7755.41,Medicaid,11,Referred,4.30,19-35
+PID00619,Hospital_4,New York,Emergency,Other,75,10-09-2024,Migraine,5521.67,Uninsured,6,Recovered,4.80,60+
+PID00620,Hospital_29,Miami,Emergency,Other,82,11-09-2024,Diabetes,6845.80,Uninsured,9,Referred,3.20,60+
+PID00621,Hospital_6,Seattle,General Surgery,Male,67,12-09-2024,Diabetes,3828.26,Private,6,Referred,4.40,60+
+PID00622,Hospital_2,Seattle,Neurology,Female,88,13-09-2024,Flu,6373.32,Medicare,6,Recovered,4.90,60+
+PID00623,Hospital_12,Seattle,General Surgery,Other,73,14-09-2024,Heart Disease,14993.55,Medicaid,20,Referred,1.20,60+
+PID00624,Hospital_1,Los Angeles,Cardiology,Male,61,15-09-2024,Fracture,12414.66,Medicaid,20,Deceased,4.80,60+
+PID00625,Hospital_25,Houston,Orthopedics,Male,29,16-09-2024,Covid-19,3885.09,Uninsured,20,Referred,1.10,19-35
+PID00626,Hospital_10,Chicago,Orthopedics,Other,69,17-09-2024,Diabetes,8412.19,Uninsured,3,Referred,3.80,60+
+PID00627,Hospital_13,Houston,Cardiology,Other,1,18-09-2024,Heart Disease,14503.59,Private,9,Deceased,1.40,0-18
+PID00628,Hospital_25,Houston,Pediatrics,Male,62,19-09-2024,Flu,1561.04,Uninsured,2,Deceased,4.20,60+
+PID00629,Hospital_2,Houston,Emergency,Male,44,20-09-2024,Heart Disease,6458.65,Medicaid,1,Recovered,3.00,36-60
+PID00630,Hospital_25,Miami,Neurology,Female,65,21-09-2024,Cancer,14937.87,Uninsured,3,Recovered,4.90,60+
+PID00631,Hospital_2,Los Angeles,Orthopedics,Male,7,22-09-2024,Heart Disease,12751.27,Private,1,Referred,1.10,0-18
+PID00632,Hospital_1,New York,Oncology,Other,15,23-09-2024,Migraine,6053.34,Medicaid,14,Deceased,2.40,0-18
+PID00633,Hospital_3,Atlanta,Neurology,Other,53,24-09-2024,Heart Disease,12067.23,Medicare,11,Recovered,3.00,36-60
+PID00634,Hospital_22,Los Angeles,Emergency,Female,16,25-09-2024,Cancer,7706.69,Uninsured,17,Deceased,2.40,0-18
+PID00635,Hospital_10,Houston,Neurology,Male,57,26-09-2024,Diabetes,6478.28,Medicare,16,Recovered,3.60,36-60
+PID00636,Hospital_10,Seattle,General Surgery,Female,11,27-09-2024,Cancer,7799.48,Medicare,2,Recovered,4.30,0-18
+PID00637,Hospital_28,Houston,Cardiology,Female,27,28-09-2024,Heart Disease,9464.43,Uninsured,12,Referred,4.60,19-35
+PID00638,Hospital_24,New York,Orthopedics,Other,68,29-09-2024,Cancer,6653.01,Medicaid,20,Deceased,2.90,60+
+PID00639,Hospital_18,Chicago,Cardiology,Male,86,30-09-2024,Cancer,4340.19,Medicare,13,Deceased,1.60,60+
+PID00640,Hospital_10,New York,Pediatrics,Male,78,01-10-2024,Covid-19,8006.53,Medicaid,16,Referred,2.70,60+
+PID00641,Hospital_16,New York,Neurology,Other,85,02-10-2024,Heart Disease,8478.10,Medicaid,4,Recovered,3.20,60+
+PID00642,Hospital_8,Atlanta,Cardiology,Female,33,03-10-2024,Covid-19,12638.17,Medicaid,12,Recovered,4.30,19-35
+PID00643,Hospital_3,Chicago,Emergency,Male,50,04-10-2024,Diabetes,8896.40,Medicare,11,Deceased,3.90,36-60
+PID00644,Hospital_10,Houston,Orthopedics,Female,27,05-10-2024,Heart Disease,6039.03,Medicaid,3,Recovered,4.60,19-35
+PID00645,Hospital_18,Chicago,Neurology,Male,28,06-10-2024,Flu,4792.31,Private,13,Deceased,4.60,19-35
+PID00646,Hospital_1,Miami,Oncology,Male,37,07-10-2024,Covid-19,3052.72,Medicare,9,Deceased,5.00,36-60
+PID00647,Hospital_5,Houston,Cardiology,Other,42,08-10-2024,Diabetes,1514.79,Uninsured,16,Recovered,4.20,36-60
+PID00648,Hospital_3,Houston,Neurology,Male,66,09-10-2024,Covid-19,9725.63,Medicaid,18,Deceased,4.70,60+
+PID00649,Hospital_7,Atlanta,Orthopedics,Female,29,10-10-2024,Flu,11729.51,Medicaid,12,Deceased,4.60,19-35
+PID00650,Hospital_27,Los Angeles,General Surgery,Other,57,11-10-2024,Heart Disease,13708.46,Medicare,3,Deceased,1.70,36-60
+PID00651,Hospital_2,Phoenix,Cardiology,Female,77,12-10-2024,Migraine,2524.20,Medicare,15,Deceased,3.20,60+
+PID00652,Hospital_3,Chicago,General Surgery,Male,8,13-10-2024,Diabetes,11688.70,Medicaid,11,Deceased,3.40,0-18
+PID00653,Hospital_30,Houston,Orthopedics,Male,80,14-10-2024,Flu,13512.85,Medicare,8,Referred,1.10,60+
+PID00654,Hospital_28,Seattle,Neurology,Other,16,15-10-2024,Cancer,11361.74,Medicaid,4,Deceased,1.00,0-18
+PID00655,Hospital_16,New York,Cardiology,Male,7,16-10-2024,Diabetes,1700.77,Medicaid,6,Recovered,4.20,0-18
+PID00656,Hospital_6,Houston,General Surgery,Female,21,17-10-2024,Migraine,4341.54,Uninsured,14,Referred,4.20,19-35
+PID00657,Hospital_5,Phoenix,Neurology,Female,23,18-10-2024,Migraine,10365.04,Medicare,17,Deceased,4.90,19-35
+PID00658,Hospital_2,Seattle,Emergency,Female,80,19-10-2024,Fracture,2787.15,Medicaid,13,Recovered,3.10,60+
+PID00659,Hospital_2,Houston,Cardiology,Male,87,20-10-2024,Migraine,5600.36,Private,14,Recovered,3.30,60+
+PID00660,Hospital_6,Phoenix,Orthopedics,Female,3,21-10-2024,Flu,5323.27,Private,12,Recovered,4.10,0-18
+PID00661,Hospital_4,Phoenix,Emergency,Other,4,22-10-2024,Migraine,7326.24,Private,13,Recovered,2.10,0-18
+PID00662,Hospital_3,Atlanta,Neurology,Other,50,23-10-2024,Cancer,3023.35,Uninsured,16,Deceased,4.10,36-60
+PID00663,Hospital_28,Miami,General Surgery,Other,83,24-10-2024,Cancer,9406.22,Medicaid,5,Recovered,1.00,60+
+PID00664,Hospital_23,Seattle,Emergency,Female,47,25-10-2024,Fracture,7171.23,Medicaid,9,Referred,1.60,36-60
+PID00665,Hospital_1,Phoenix,Oncology,Female,48,26-10-2024,Diabetes,10688.50,Private,19,Recovered,2.20,36-60
+PID00666,Hospital_20,Miami,Orthopedics,Male,55,27-10-2024,Covid-19,851.14,Uninsured,12,Recovered,2.90,36-60
+PID00667,Hospital_12,Houston,Cardiology,Other,14,28-10-2024,Covid-19,12808.92,Medicare,18,Recovered,2.00,0-18
+PID00668,Hospital_25,New York,Cardiology,Male,81,29-10-2024,Covid-19,7527.10,Uninsured,14,Referred,1.90,60+
+PID00669,Hospital_3,Atlanta,Pediatrics,Female,46,30-10-2024,Cancer,10045.25,Uninsured,1,Referred,3.30,36-60
+PID00670,Hospital_28,Houston,Pediatrics,Other,39,31-10-2024,Cancer,14484.91,Uninsured,17,Deceased,4.50,36-60
+PID00671,Hospital_16,Phoenix,Oncology,Other,28,01-11-2024,Heart Disease,8474.87,Medicare,13,Referred,3.30,19-35
+PID00672,Hospital_1,Chicago,General Surgery,Male,23,02-11-2024,Cancer,8312.35,Uninsured,3,Recovered,3.10,19-35
+PID00673,Hospital_26,Atlanta,Orthopedics,Other,19,03-11-2024,Diabetes,2591.05,Medicare,17,Referred,4.70,19-35
+PID00674,Hospital_11,Atlanta,Orthopedics,Female,88,04-11-2024,Heart Disease,1606.90,Medicaid,1,Referred,2.50,60+
+PID00675,Hospital_27,New York,Pediatrics,Male,39,05-11-2024,Heart Disease,8728.71,Medicaid,3,Deceased,4.10,36-60
+PID00676,Hospital_13,Atlanta,Oncology,Other,73,06-11-2024,Covid-19,9311.52,Medicaid,16,Referred,4.80,60+
+PID00677,Hospital_8,Phoenix,Cardiology,Other,42,07-11-2024,Migraine,10853.14,Private,2,Referred,2.90,36-60
+PID00678,Hospital_28,Phoenix,Emergency,Other,48,08-11-2024,Fracture,3672.94,Uninsured,1,Recovered,4.40,36-60
+PID00679,Hospital_19,Los Angeles,Orthopedics,Other,28,09-11-2024,Fracture,7709.29,Medicaid,17,Recovered,2.30,19-35
+PID00680,Hospital_4,New York,General Surgery,Female,5,10-11-2024,Covid-19,6350.63,Medicaid,12,Recovered,1.80,0-18
+PID00681,Hospital_3,Atlanta,Emergency,Female,2,11-11-2024,Fracture,895.16,Uninsured,8,Referred,4.30,0-18
+PID00682,Hospital_6,New York,Cardiology,Other,41,12-11-2024,Heart Disease,13643.58,Medicare,12,Recovered,3.30,36-60
+PID00683,Hospital_21,Houston,Neurology,Female,11,13-11-2024,Migraine,4770.22,Medicare,14,Deceased,2.10,0-18
+PID00684,Hospital_17,Los Angeles,Orthopedics,Other,61,14-11-2024,Cancer,10300.63,Private,6,Deceased,2.00,60+
+PID00685,Hospital_7,Los Angeles,Orthopedics,Male,11,15-11-2024,Flu,2287.48,Private,20,Referred,2.90,0-18
+PID00686,Hospital_7,Miami,Pediatrics,Other,53,16-11-2024,Migraine,2407.77,Private,19,Referred,4.30,36-60
+PID00687,Hospital_21,Atlanta,Orthopedics,Other,69,17-11-2024,Fracture,12214.50,Private,3,Recovered,3.60,60+
+PID00688,Hospital_3,Atlanta,Neurology,Male,90,18-11-2024,Migraine,1100.75,Medicare,5,Recovered,4.70,60+
+PID00689,Hospital_14,Miami,Neurology,Other,19,19-11-2024,Covid-19,744.76,Medicaid,15,Referred,1.80,19-35
+PID00690,Hospital_21,Houston,Pediatrics,Female,41,20-11-2024,Cancer,5671.97,Medicaid,2,Recovered,1.30,36-60
+PID00691,Hospital_11,Houston,Pediatrics,Other,11,21-11-2024,Flu,13369.94,Private,15,Recovered,4.70,0-18
+PID00692,Hospital_30,Seattle,Pediatrics,Male,62,22-11-2024,Covid-19,8261.63,Private,17,Referred,3.20,60+
+PID00693,Hospital_17,Los Angeles,General Surgery,Other,26,23-11-2024,Cancer,6041.14,Private,10,Referred,1.40,19-35
+PID00694,Hospital_12,Miami,Cardiology,Other,67,24-11-2024,Cancer,9568.76,Medicaid,6,Recovered,4.40,60+
+PID00695,Hospital_5,Chicago,Neurology,Other,38,25-11-2024,Flu,5903.45,Uninsured,6,Recovered,4.10,36-60
+PID00696,Hospital_24,New York,Cardiology,Female,32,26-11-2024,Flu,2753.99,Medicaid,18,Recovered,1.10,19-35
+PID00697,Hospital_25,Atlanta,Oncology,Other,57,27-11-2024,Fracture,14107.57,Medicaid,11,Deceased,1.90,36-60
+PID00698,Hospital_22,Seattle,Emergency,Male,73,28-11-2024,Diabetes,13103.64,Medicare,20,Deceased,3.20,60+
+PID00699,Hospital_4,Seattle,Orthopedics,Other,32,29-11-2024,Fracture,11368.10,Medicaid,5,Recovered,3.60,19-35
+PID00700,Hospital_1,Miami,Cardiology,Other,3,30-11-2024,Fracture,5776.07,Uninsured,14,Referred,3.60,0-18
+PID00701,Hospital_26,New York,Neurology,Other,78,01-12-2024,Fracture,14840.10,Uninsured,20,Deceased,3.10,60+
+PID00702,Hospital_2,New York,Emergency,Other,30,02-12-2024,Heart Disease,7471.77,Private,19,Recovered,4.00,19-35
+PID00703,Hospital_1,Chicago,General Surgery,Other,32,03-12-2024,Cancer,7615.12,Uninsured,5,Referred,2.00,19-35
+PID00704,Hospital_14,Seattle,Orthopedics,Other,52,04-12-2024,Flu,3335.08,Uninsured,20,Referred,3.60,36-60
+PID00705,Hospital_10,Atlanta,General Surgery,Female,52,05-12-2024,Cancer,4009.25,Medicaid,17,Deceased,2.70,36-60
+PID00706,Hospital_18,Atlanta,Oncology,Female,41,06-12-2024,Cancer,4502.95,Medicare,19,Deceased,3.80,36-60
+PID00707,Hospital_30,Houston,Neurology,Female,86,07-12-2024,Flu,14217.43,Medicare,10,Deceased,1.40,60+
+PID00708,Hospital_13,Phoenix,Oncology,Female,17,08-12-2024,Covid-19,11752.52,Medicare,13,Referred,4.60,0-18
+PID00709,Hospital_11,Chicago,Emergency,Other,49,09-12-2024,Diabetes,14365.66,Medicaid,1,Deceased,4.50,36-60
+PID00710,Hospital_12,Phoenix,Neurology,Female,16,10-12-2024,Cancer,3490.79,Uninsured,15,Deceased,4.00,0-18
+PID00711,Hospital_13,Atlanta,Emergency,Male,6,11-12-2024,Flu,4796.39,Medicaid,12,Referred,3.30,0-18
+PID00712,Hospital_26,Seattle,Orthopedics,Male,7,12-12-2024,Flu,3586.44,Medicaid,4,Deceased,4.40,0-18
+PID00713,Hospital_1,New York,Orthopedics,Female,6,13-12-2024,Diabetes,13369.97,Medicaid,9,Referred,3.00,0-18
+PID00714,Hospital_5,Phoenix,Pediatrics,Female,45,14-12-2024,Diabetes,5505.58,Uninsured,14,Deceased,3.00,36-60
+PID00715,Hospital_17,Miami,Neurology,Female,57,15-12-2024,Migraine,13481.40,Uninsured,11,Recovered,2.30,36-60
+PID00716,Hospital_29,Los Angeles,Pediatrics,Female,28,16-12-2024,Cancer,5765.21,Uninsured,9,Deceased,4.10,19-35
+PID00717,Hospital_10,Seattle,Orthopedics,Male,53,17-12-2024,Cancer,14901.49,Private,7,Deceased,2.50,36-60
+PID00718,Hospital_12,Miami,Neurology,Female,31,18-12-2024,Diabetes,14426.64,Private,9,Referred,2.90,19-35
+PID00719,Hospital_26,Phoenix,Neurology,Female,72,19-12-2024,Heart Disease,10597.66,Uninsured,15,Referred,3.90,60+
+PID00720,Hospital_7,Los Angeles,Orthopedics,Male,23,20-12-2024,Fracture,2926.46,Uninsured,4,Recovered,3.10,19-35
+PID00721,Hospital_8,Chicago,Pediatrics,Female,82,21-12-2024,Heart Disease,11650.22,Medicare,7,Referred,1.50,60+
+PID00722,Hospital_29,New York,Pediatrics,Other,30,22-12-2024,Heart Disease,4085.95,Private,7,Referred,4.30,19-35
+PID00723,Hospital_19,Houston,General Surgery,Male,38,23-12-2024,Fracture,2136.67,Medicare,4,Recovered,3.90,36-60
+PID00724,Hospital_4,Los Angeles,General Surgery,Female,70,24-12-2024,Fracture,3646.07,Private,9,Deceased,1.80,60+
+PID00725,Hospital_15,Seattle,Cardiology,Male,44,25-12-2024,Fracture,9075.86,Private,16,Deceased,4.40,36-60
+PID00726,Hospital_5,Houston,Pediatrics,Female,21,26-12-2024,Flu,8941.38,Medicare,19,Deceased,3.20,19-35
+PID00727,Hospital_19,Miami,Pediatrics,Other,55,27-12-2024,Flu,13316.70,Uninsured,8,Recovered,1.50,36-60
+PID00728,Hospital_16,Phoenix,Pediatrics,Male,40,28-12-2024,Cancer,2840.68,Medicare,1,Deceased,4.10,36-60
+PID00729,Hospital_7,Los Angeles,Cardiology,Male,5,29-12-2024,Fracture,14782.47,Medicaid,9,Recovered,1.70,0-18
+PID00730,Hospital_4,Phoenix,Pediatrics,Female,68,30-12-2024,Flu,9335.93,Uninsured,10,Deceased,3.40,60+
+PID00731,Hospital_14,Seattle,Emergency,Male,65,31-12-2024,Diabetes,12176.84,Medicaid,16,Referred,2.90,60+
+PID00732,Hospital_2,Houston,Neurology,Female,83,01-01-2025,Heart Disease,6103.77,Uninsured,13,Deceased,1.90,60+
+PID00733,Hospital_24,New York,Pediatrics,Male,41,02-01-2025,Cancer,11293.92,Medicare,1,Recovered,2.80,36-60
+PID00734,Hospital_30,Phoenix,Emergency,Male,36,03-01-2025,Cancer,11930.70,Private,10,Referred,2.80,36-60
+PID00735,Hospital_22,Atlanta,Cardiology,Male,47,04-01-2025,Cancer,1001.36,Medicaid,5,Referred,1.30,36-60
+PID00736,Hospital_13,Seattle,Emergency,Other,18,05-01-2025,Fracture,12989.86,Private,1,Recovered,1.20,0-18
+PID00737,Hospital_20,Phoenix,General Surgery,Other,8,06-01-2025,Fracture,3969.84,Uninsured,5,Recovered,4.40,0-18
+PID00738,Hospital_27,Los Angeles,Emergency,Male,68,07-01-2025,Heart Disease,10657.47,Medicare,10,Referred,2.70,60+
+PID00739,Hospital_30,Chicago,Orthopedics,Male,38,08-01-2025,Heart Disease,8448.06,Uninsured,6,Recovered,3.00,36-60
+PID00740,Hospital_14,Chicago,Orthopedics,Other,21,09-01-2025,Migraine,7270.93,Private,13,Recovered,1.20,19-35
+PID00741,Hospital_2,Miami,Cardiology,Other,70,10-01-2025,Migraine,14011.81,Medicare,18,Recovered,4.50,60+
+PID00742,Hospital_27,New York,Neurology,Male,47,11-01-2025,Heart Disease,2891.36,Private,3,Referred,2.10,36-60
+PID00743,Hospital_7,Seattle,Orthopedics,Other,21,12-01-2025,Cancer,1175.87,Medicaid,4,Referred,2.50,19-35
+PID00744,Hospital_4,Chicago,Oncology,Male,77,13-01-2025,Cancer,7414.21,Medicaid,14,Recovered,4.80,60+
+PID00745,Hospital_16,Miami,Pediatrics,Other,76,14-01-2025,Diabetes,7019.25,Medicaid,6,Deceased,1.00,60+
+PID00746,Hospital_7,Miami,Orthopedics,Female,17,15-01-2025,Cancer,14910.23,Private,2,Deceased,1.90,0-18
+PID00747,Hospital_20,Phoenix,Orthopedics,Other,4,16-01-2025,Diabetes,6108.94,Private,19,Referred,4.90,0-18
+PID00748,Hospital_4,Phoenix,Cardiology,Female,85,17-01-2025,Covid-19,13380.22,Private,3,Referred,2.00,60+
+PID00749,Hospital_29,New York,Neurology,Female,4,18-01-2025,Covid-19,14238.47,Uninsured,19,Recovered,5.00,0-18
+PID00750,Hospital_21,Miami,Neurology,Male,75,19-01-2025,Fracture,8623.20,Medicare,5,Recovered,3.30,60+
+PID00751,Hospital_10,Atlanta,General Surgery,Female,21,20-01-2025,Cancer,8992.88,Uninsured,9,Deceased,2.50,19-35
+PID00752,Hospital_20,Phoenix,Pediatrics,Other,7,21-01-2025,Fracture,8571.77,Private,19,Recovered,2.20,0-18
+PID00753,Hospital_21,Houston,Neurology,Female,81,22-01-2025,Cancer,8241.81,Medicaid,2,Deceased,3.00,60+
+PID00754,Hospital_20,Chicago,Pediatrics,Male,31,23-01-2025,Fracture,2072.13,Medicare,5,Recovered,3.50,19-35
+PID00755,Hospital_18,Los Angeles,Orthopedics,Female,41,24-01-2025,Covid-19,3568.98,Medicaid,18,Recovered,1.50,36-60
+PID00756,Hospital_10,Miami,Emergency,Other,43,25-01-2025,Fracture,14173.67,Uninsured,6,Deceased,1.00,36-60
+PID00757,Hospital_20,Houston,General Surgery,Male,52,26-01-2025,Cancer,5836.36,Medicaid,20,Recovered,4.50,36-60
+PID00758,Hospital_13,Los Angeles,Neurology,Other,85,27-01-2025,Flu,3646.83,Uninsured,11,Referred,3.10,60+
+PID00759,Hospital_4,Houston,Pediatrics,Female,16,28-01-2025,Flu,2856.72,Uninsured,19,Deceased,5.00,0-18
+PID00760,Hospital_16,Chicago,Oncology,Male,49,29-01-2025,Cancer,3961.78,Medicaid,15,Referred,3.40,36-60
+PID00761,Hospital_7,Miami,Cardiology,Female,84,30-01-2025,Fracture,8794.71,Medicaid,20,Referred,1.50,60+
+PID00762,Hospital_22,Atlanta,General Surgery,Other,39,31-01-2025,Migraine,936.46,Uninsured,12,Deceased,1.20,36-60
+PID00763,Hospital_12,Phoenix,Pediatrics,Male,22,01-02-2025,Diabetes,11870.89,Medicaid,11,Recovered,3.00,19-35
+PID00764,Hospital_4,Chicago,Pediatrics,Other,1,02-02-2025,Fracture,8129.82,Private,19,Referred,1.20,0-18
+PID00765,Hospital_3,Miami,Neurology,Male,1,03-02-2025,Covid-19,9346.98,Medicaid,17,Referred,1.70,0-18
+PID00766,Hospital_9,Chicago,Orthopedics,Female,86,04-02-2025,Flu,8756.19,Medicaid,18,Deceased,2.90,60+
+PID00767,Hospital_14,Houston,Cardiology,Female,38,05-02-2025,Flu,4621.04,Private,10,Referred,1.70,36-60
+PID00768,Hospital_17,Atlanta,Pediatrics,Male,50,06-02-2025,Cancer,625.24,Medicaid,18,Deceased,1.30,36-60
+PID00769,Hospital_20,New York,Pediatrics,Other,26,07-02-2025,Fracture,13413.31,Uninsured,9,Recovered,2.00,19-35
+PID00770,Hospital_26,Houston,Emergency,Male,67,08-02-2025,Migraine,1993.27,Medicare,18,Referred,1.00,60+
+PID00771,Hospital_8,Los Angeles,Neurology,Female,45,09-02-2025,Covid-19,1453.26,Uninsured,13,Referred,4.30,36-60
+PID00772,Hospital_2,Los Angeles,Oncology,Other,51,10-02-2025,Cancer,5366.98,Medicaid,4,Recovered,4.90,36-60
+PID00773,Hospital_2,Houston,Emergency,Male,40,11-02-2025,Migraine,9148.82,Private,8,Referred,2.20,36-60
+PID00774,Hospital_26,Seattle,Emergency,Male,40,12-02-2025,Heart Disease,3120.51,Private,17,Referred,4.60,36-60
+PID00775,Hospital_27,New York,Neurology,Female,21,13-02-2025,Cancer,7192.03,Private,15,Referred,4.70,19-35
+PID00776,Hospital_2,Los Angeles,Oncology,Female,76,14-02-2025,Heart Disease,3330.21,Medicaid,20,Referred,1.80,60+
+PID00777,Hospital_1,Houston,Oncology,Other,82,15-02-2025,Heart Disease,4578.70,Medicaid,7,Recovered,1.70,60+
+PID00778,Hospital_2,Los Angeles,Oncology,Male,21,16-02-2025,Heart Disease,6147.64,Medicaid,3,Referred,4.60,19-35
+PID00779,Hospital_4,Phoenix,Pediatrics,Female,66,17-02-2025,Diabetes,9111.25,Medicare,9,Deceased,3.60,60+
+PID00780,Hospital_22,Houston,Emergency,Other,32,18-02-2025,Heart Disease,7924.00,Uninsured,15,Recovered,3.30,19-35
+PID00781,Hospital_20,Miami,Emergency,Male,2,19-02-2025,Diabetes,3595.46,Medicare,11,Recovered,2.30,0-18
+PID00782,Hospital_1,New York,Emergency,Other,56,20-02-2025,Fracture,13864.39,Medicare,18,Deceased,1.60,36-60
+PID00783,Hospital_9,New York,Emergency,Female,54,21-02-2025,Migraine,8692.76,Uninsured,7,Recovered,1.70,36-60
+PID00784,Hospital_15,Phoenix,Oncology,Female,61,22-02-2025,Covid-19,9521.40,Medicare,6,Deceased,1.70,60+
+PID00785,Hospital_16,Seattle,Orthopedics,Male,67,23-02-2025,Covid-19,1939.32,Private,3,Recovered,2.60,60+
+PID00786,Hospital_29,New York,Cardiology,Other,81,24-02-2025,Cancer,10638.54,Medicaid,8,Deceased,4.20,60+
+PID00787,Hospital_25,Phoenix,Neurology,Male,73,25-02-2025,Diabetes,902.87,Medicaid,19,Deceased,2.90,60+
+PID00788,Hospital_6,Miami,Cardiology,Male,47,26-02-2025,Flu,4302.13,Medicaid,5,Referred,4.80,36-60
+PID00789,Hospital_30,Los Angeles,Pediatrics,Male,1,27-02-2025,Cancer,12522.68,Medicare,2,Recovered,3.20,0-18
+PID00790,Hospital_21,Los Angeles,Emergency,Female,86,28-02-2025,Covid-19,11915.86,Medicaid,11,Recovered,1.80,60+
+PID00791,Hospital_22,Atlanta,Cardiology,Other,34,01-03-2025,Heart Disease,13900.33,Medicare,17,Referred,1.10,19-35
+PID00792,Hospital_10,Houston,Neurology,Female,54,02-03-2025,Fracture,6530.71,Medicare,3,Deceased,4.20,36-60
+PID00793,Hospital_16,Miami,Orthopedics,Female,52,03-03-2025,Heart Disease,7141.86,Uninsured,19,Referred,2.00,36-60
+PID00794,Hospital_18,Seattle,Pediatrics,Male,83,04-03-2025,Covid-19,12127.87,Uninsured,12,Referred,2.70,60+
+PID00795,Hospital_7,Los Angeles,Neurology,Female,21,05-03-2025,Diabetes,3451.47,Private,16,Deceased,2.20,19-35
+PID00796,Hospital_2,New York,Pediatrics,Male,54,06-03-2025,Diabetes,5664.29,Medicaid,18,Deceased,4.90,36-60
+PID00797,Hospital_12,Los Angeles,General Surgery,Male,44,07-03-2025,Heart Disease,10354.38,Private,6,Recovered,3.70,36-60
+PID00798,Hospital_10,Miami,Neurology,Male,83,08-03-2025,Fracture,11599.70,Private,20,Recovered,3.50,60+
+PID00799,Hospital_19,Los Angeles,Orthopedics,Female,55,09-03-2025,Fracture,11237.11,Medicare,16,Referred,1.90,36-60
+PID00800,Hospital_16,Miami,Emergency,Male,45,10-03-2025,Cancer,14664.54,Medicaid,12,Recovered,2.50,36-60
+PID00801,Hospital_20,Seattle,General Surgery,Other,44,11-03-2025,Heart Disease,6867.33,Medicaid,7,Referred,4.50,36-60
+PID00802,Hospital_18,New York,Cardiology,Male,89,12-03-2025,Diabetes,11409.45,Uninsured,4,Recovered,3.70,60+
+PID00803,Hospital_5,Miami,Oncology,Other,28,13-03-2025,Heart Disease,10260.78,Medicaid,6,Deceased,4.60,19-35
+PID00804,Hospital_25,Houston,Cardiology,Other,16,14-03-2025,Cancer,9557.21,Medicare,3,Recovered,1.20,0-18
+PID00805,Hospital_30,Los Angeles,Neurology,Other,52,15-03-2025,Diabetes,10852.00,Uninsured,5,Recovered,4.70,36-60
+PID00806,Hospital_6,Los Angeles,Orthopedics,Male,58,16-03-2025,Heart Disease,4798.74,Private,7,Recovered,4.00,36-60
+PID00807,Hospital_10,Seattle,Emergency,Other,17,17-03-2025,Heart Disease,8447.60,Uninsured,14,Referred,2.60,0-18
+PID00808,Hospital_8,Phoenix,Oncology,Female,84,18-03-2025,Covid-19,1355.17,Uninsured,10,Deceased,2.40,60+
+PID00809,Hospital_14,Chicago,Neurology,Other,8,19-03-2025,Cancer,4403.17,Private,7,Referred,3.20,0-18
+PID00810,Hospital_27,Los Angeles,Neurology,Other,39,20-03-2025,Flu,8333.84,Uninsured,3,Deceased,4.90,36-60
+PID00811,Hospital_15,Los Angeles,Neurology,Female,28,21-03-2025,Migraine,7621.47,Uninsured,18,Referred,2.50,19-35
+PID00812,Hospital_3,Houston,Cardiology,Other,15,22-03-2025,Flu,9793.57,Medicaid,13,Recovered,3.50,0-18
+PID00813,Hospital_6,Seattle,Neurology,Other,15,23-03-2025,Migraine,8673.53,Medicaid,5,Referred,3.00,0-18
+PID00814,Hospital_11,Houston,General Surgery,Female,45,24-03-2025,Covid-19,10565.73,Medicaid,18,Referred,2.10,36-60
+PID00815,Hospital_20,Seattle,Orthopedics,Other,56,25-03-2025,Cancer,2771.30,Medicare,17,Deceased,4.70,36-60
+PID00816,Hospital_27,Atlanta,Cardiology,Other,56,26-03-2025,Cancer,11046.76,Medicaid,19,Referred,3.20,36-60
+PID00817,Hospital_10,New York,Neurology,Other,61,27-03-2025,Covid-19,14277.52,Private,17,Referred,4.40,60+
+PID00818,Hospital_9,Houston,Cardiology,Male,3,28-03-2025,Fracture,6535.90,Medicaid,7,Recovered,3.60,0-18
+PID00819,Hospital_20,New York,Neurology,Female,62,29-03-2025,Migraine,6093.07,Uninsured,2,Referred,3.80,60+
+PID00820,Hospital_1,New York,General Surgery,Male,11,30-03-2025,Cancer,13823.07,Medicaid,4,Recovered,3.70,0-18
+PID00821,Hospital_5,Phoenix,Orthopedics,Female,10,31-03-2025,Migraine,1104.24,Medicare,4,Recovered,3.40,0-18
+PID00822,Hospital_8,Houston,Emergency,Male,16,01-04-2025,Cancer,9971.03,Private,6,Recovered,2.40,0-18
+PID00823,Hospital_4,Chicago,Cardiology,Male,87,02-04-2025,Diabetes,4626.34,Private,19,Recovered,1.10,60+
+PID00824,Hospital_17,Miami,Orthopedics,Male,62,03-04-2025,Heart Disease,14527.91,Uninsured,1,Referred,2.40,60+
+PID00825,Hospital_6,Los Angeles,Neurology,Female,60,04-04-2025,Heart Disease,10518.15,Medicaid,9,Recovered,2.80,36-60
+PID00826,Hospital_1,Atlanta,Orthopedics,Male,67,05-04-2025,Fracture,13423.43,Medicaid,4,Recovered,3.30,60+
+PID00827,Hospital_15,Los Angeles,Pediatrics,Other,42,06-04-2025,Fracture,13453.24,Medicaid,16,Referred,4.10,36-60
+PID00828,Hospital_25,Houston,Oncology,Female,11,07-04-2025,Covid-19,6279.19,Medicaid,6,Deceased,3.20,0-18
+PID00829,Hospital_8,Phoenix,Orthopedics,Other,46,08-04-2025,Flu,4749.98,Private,7,Recovered,5.00,36-60
+PID00830,Hospital_19,Miami,Cardiology,Other,55,09-04-2025,Migraine,12005.17,Private,8,Recovered,4.50,36-60
+PID00831,Hospital_10,Phoenix,Orthopedics,Female,73,10-04-2025,Flu,2333.93,Medicare,19,Recovered,4.20,60+
+PID00832,Hospital_4,Los Angeles,General Surgery,Other,52,11-04-2025,Flu,12880.01,Private,16,Recovered,3.70,36-60
+PID00833,Hospital_4,Houston,Pediatrics,Male,28,12-04-2025,Heart Disease,4371.86,Medicare,1,Recovered,2.80,19-35
+PID00834,Hospital_11,Miami,Emergency,Male,45,13-04-2025,Cancer,868.38,Uninsured,2,Recovered,4.30,36-60
+PID00835,Hospital_19,New York,Emergency,Male,90,14-04-2025,Fracture,10737.42,Private,17,Deceased,2.50,60+
+PID00836,Hospital_4,New York,Cardiology,Male,79,15-04-2025,Flu,11470.58,Medicaid,6,Deceased,3.60,60+
+PID00837,Hospital_30,Chicago,Cardiology,Male,10,16-04-2025,Covid-19,13767.54,Private,16,Recovered,4.70,0-18
+PID00838,Hospital_14,New York,Cardiology,Female,60,17-04-2025,Cancer,4415.41,Medicare,4,Referred,2.20,36-60
+PID00839,Hospital_17,New York,Cardiology,Female,28,18-04-2025,Diabetes,3435.27,Medicaid,2,Deceased,2.70,19-35
+PID00840,Hospital_24,Los Angeles,Oncology,Other,69,19-04-2025,Heart Disease,14731.75,Private,15,Deceased,1.90,60+
+PID00841,Hospital_13,Chicago,General Surgery,Male,58,20-04-2025,Migraine,3716.24,Uninsured,2,Referred,1.10,36-60
+PID00842,Hospital_22,Los Angeles,Orthopedics,Female,58,21-04-2025,Migraine,3612.74,Medicaid,16,Deceased,2.30,36-60
+PID00843,Hospital_13,New York,Orthopedics,Other,34,22-04-2025,Covid-19,12575.96,Private,14,Recovered,1.40,19-35
+PID00844,Hospital_25,Los Angeles,Pediatrics,Male,42,23-04-2025,Heart Disease,551.18,Private,10,Referred,4.60,36-60
+PID00845,Hospital_16,New York,Orthopedics,Male,60,24-04-2025,Diabetes,9504.52,Medicare,7,Recovered,2.90,36-60
+PID00846,Hospital_24,Los Angeles,General Surgery,Female,30,25-04-2025,Flu,4513.54,Uninsured,13,Recovered,1.30,19-35
+PID00847,Hospital_29,Houston,General Surgery,Other,27,26-04-2025,Migraine,1625.01,Uninsured,3,Referred,2.70,19-35
+PID00848,Hospital_22,New York,Neurology,Female,14,27-04-2025,Covid-19,12539.14,Medicaid,10,Referred,4.00,0-18
+PID00849,Hospital_28,Phoenix,General Surgery,Female,14,28-04-2025,Covid-19,2989.94,Uninsured,10,Referred,3.10,0-18
+PID00850,Hospital_19,Chicago,Cardiology,Female,13,29-04-2025,Covid-19,2030.99,Uninsured,13,Recovered,3.80,0-18
+PID00851,Hospital_11,Atlanta,Orthopedics,Female,58,30-04-2025,Diabetes,14126.91,Medicare,9,Recovered,5.00,36-60
+PID00852,Hospital_26,Houston,Oncology,Female,74,01-05-2025,Heart Disease,4304.53,Uninsured,20,Referred,2.90,60+
+PID00853,Hospital_9,Houston,Cardiology,Female,21,02-05-2025,Heart Disease,6553.56,Medicaid,19,Recovered,4.20,19-35
+PID00854,Hospital_1,Chicago,Neurology,Female,32,03-05-2025,Covid-19,1464.91,Private,6,Recovered,1.30,19-35
+PID00855,Hospital_24,Houston,Neurology,Male,22,04-05-2025,Cancer,3385.20,Private,4,Deceased,2.40,19-35
+PID00856,Hospital_13,Miami,Emergency,Other,27,05-05-2025,Covid-19,8446.58,Uninsured,4,Referred,1.70,19-35
+PID00857,Hospital_17,New York,Neurology,Other,38,06-05-2025,Migraine,7606.53,Medicare,5,Deceased,2.20,36-60
+PID00858,Hospital_22,New York,Cardiology,Other,63,07-05-2025,Fracture,3291.29,Private,3,Referred,1.20,60+
+PID00859,Hospital_12,New York,Pediatrics,Other,52,08-05-2025,Cancer,10069.07,Medicare,1,Recovered,2.00,36-60
+PID00860,Hospital_29,New York,Pediatrics,Female,33,09-05-2025,Fracture,5347.81,Medicaid,18,Deceased,4.40,19-35
+PID00861,Hospital_4,Atlanta,Cardiology,Female,38,10-05-2025,Heart Disease,4166.37,Medicare,1,Recovered,4.20,36-60
+PID00862,Hospital_10,New York,Pediatrics,Other,36,11-05-2025,Flu,7121.28,Medicaid,3,Deceased,2.00,36-60
+PID00863,Hospital_29,Phoenix,Pediatrics,Male,58,12-05-2025,Diabetes,12120.19,Medicaid,13,Deceased,3.30,36-60
+PID00864,Hospital_7,Seattle,Oncology,Female,75,13-05-2025,Flu,4280.24,Private,20,Deceased,3.20,60+
+PID00865,Hospital_17,Seattle,Cardiology,Other,10,14-05-2025,Diabetes,6891.25,Private,3,Recovered,1.70,0-18
+PID00866,Hospital_4,Atlanta,Emergency,Other,34,15-05-2025,Flu,13839.13,Medicare,13,Recovered,3.20,19-35
+PID00867,Hospital_8,Atlanta,Neurology,Other,79,16-05-2025,Diabetes,6552.27,Medicaid,19,Recovered,4.50,60+
+PID00868,Hospital_11,Miami,General Surgery,Male,57,17-05-2025,Diabetes,4640.49,Uninsured,2,Recovered,1.10,36-60
+PID00869,Hospital_26,Phoenix,Oncology,Other,48,18-05-2025,Fracture,7326.22,Private,13,Deceased,3.30,36-60
+PID00870,Hospital_5,New York,Orthopedics,Male,25,19-05-2025,Cancer,2161.73,Private,15,Referred,4.10,19-35
+PID00871,Hospital_11,Houston,Neurology,Male,88,20-05-2025,Migraine,2151.47,Medicare,17,Deceased,3.70,60+
+PID00872,Hospital_29,Chicago,Orthopedics,Female,40,21-05-2025,Migraine,1624.66,Medicare,2,Deceased,3.80,36-60
+PID00873,Hospital_18,Los Angeles,Pediatrics,Female,29,22-05-2025,Flu,10891.29,Uninsured,11,Deceased,3.40,19-35
+PID00874,Hospital_4,Houston,Oncology,Other,23,23-05-2025,Flu,14614.18,Uninsured,18,Referred,3.60,19-35
+PID00875,Hospital_14,New York,Cardiology,Other,77,24-05-2025,Flu,5351.97,Private,15,Referred,1.30,60+
+PID00876,Hospital_16,Atlanta,Orthopedics,Female,16,25-05-2025,Covid-19,11448.06,Medicare,2,Recovered,4.50,0-18
+PID00877,Hospital_13,Atlanta,Neurology,Female,65,26-05-2025,Migraine,9170.01,Medicaid,10,Recovered,3.30,60+
+PID00878,Hospital_14,Miami,General Surgery,Female,81,27-05-2025,Flu,8759.71,Medicaid,17,Recovered,1.60,60+
+PID00879,Hospital_3,Atlanta,Oncology,Male,20,28-05-2025,Cancer,4389.31,Private,15,Recovered,3.10,19-35
+PID00880,Hospital_9,Los Angeles,Pediatrics,Male,33,29-05-2025,Fracture,3166.27,Uninsured,18,Recovered,5.00,19-35
+PID00881,Hospital_23,Los Angeles,Oncology,Male,46,30-05-2025,Heart Disease,12398.50,Medicaid,3,Recovered,4.20,36-60
+PID00882,Hospital_19,New York,Orthopedics,Male,23,31-05-2025,Covid-19,11910.93,Private,18,Recovered,3.60,19-35
+PID00883,Hospital_20,Atlanta,Cardiology,Other,39,01-06-2025,Cancer,3728.40,Uninsured,18,Referred,4.70,36-60
+PID00884,Hospital_4,Houston,General Surgery,Female,72,02-06-2025,Diabetes,14505.50,Private,3,Referred,4.60,60+
+PID00885,Hospital_5,Los Angeles,General Surgery,Male,79,03-06-2025,Cancer,9604.49,Medicaid,18,Deceased,4.70,60+
+PID00886,Hospital_8,Chicago,Orthopedics,Male,48,04-06-2025,Migraine,9317.49,Uninsured,1,Referred,3.20,36-60
+PID00887,Hospital_11,Chicago,Orthopedics,Female,51,05-06-2025,Heart Disease,7702.33,Uninsured,14,Referred,3.00,36-60
+PID00888,Hospital_17,Miami,Pediatrics,Female,49,06-06-2025,Cancer,5380.36,Uninsured,5,Deceased,4.20,36-60
+PID00889,Hospital_20,Chicago,Orthopedics,Male,56,07-06-2025,Heart Disease,10227.17,Uninsured,9,Recovered,3.00,36-60
+PID00890,Hospital_8,Chicago,Orthopedics,Other,13,08-06-2025,Diabetes,13241.00,Private,6,Recovered,3.10,0-18
+PID00891,Hospital_17,Seattle,General Surgery,Female,17,09-06-2025,Migraine,1983.98,Medicare,4,Recovered,3.10,0-18
+PID00892,Hospital_10,Phoenix,Pediatrics,Other,12,10-06-2025,Covid-19,2084.26,Medicaid,6,Referred,1.40,0-18
+PID00893,Hospital_14,Seattle,Pediatrics,Male,71,11-06-2025,Diabetes,5792.93,Medicaid,5,Referred,1.10,60+
+PID00894,Hospital_11,Houston,Cardiology,Female,88,12-06-2025,Fracture,9444.07,Medicare,13,Recovered,4.00,60+
+PID00895,Hospital_25,Phoenix,Cardiology,Male,48,13-06-2025,Cancer,8849.88,Medicaid,12,Recovered,1.50,36-60
+PID00896,Hospital_5,Seattle,Emergency,Male,80,14-06-2025,Flu,7875.86,Private,12,Referred,4.60,60+
+PID00897,Hospital_25,Chicago,Cardiology,Female,72,15-06-2025,Flu,1436.50,Medicare,15,Recovered,3.10,60+
+PID00898,Hospital_27,Seattle,Oncology,Female,71,16-06-2025,Covid-19,4741.63,Uninsured,15,Recovered,4.80,60+
+PID00899,Hospital_21,Phoenix,Pediatrics,Female,77,17-06-2025,Cancer,6442.90,Medicaid,16,Referred,2.30,60+
+PID00900,Hospital_26,Seattle,Emergency,Male,8,18-06-2025,Migraine,12103.01,Medicare,18,Recovered,4.70,0-18
+PID00901,Hospital_22,Chicago,Pediatrics,Other,24,19-06-2025,Fracture,11151.24,Uninsured,9,Referred,1.80,19-35
+PID00902,Hospital_2,Phoenix,Orthopedics,Male,60,20-06-2025,Flu,7308.81,Medicare,18,Recovered,4.20,36-60
+PID00903,Hospital_3,New York,Emergency,Female,13,21-06-2025,Fracture,2329.11,Medicare,7,Recovered,3.00,0-18
+PID00904,Hospital_12,Los Angeles,General Surgery,Other,11,22-06-2025,Diabetes,5135.23,Uninsured,16,Recovered,3.60,0-18
+PID00905,Hospital_25,Seattle,Orthopedics,Female,77,23-06-2025,Covid-19,10323.10,Medicaid,3,Recovered,4.30,60+
+PID00906,Hospital_27,Atlanta,Orthopedics,Female,79,24-06-2025,Heart Disease,13110.21,Medicaid,13,Deceased,4.40,60+
+PID00907,Hospital_14,Atlanta,Pediatrics,Male,81,25-06-2025,Flu,9731.50,Private,5,Recovered,1.20,60+
+PID00908,Hospital_23,New York,General Surgery,Other,55,26-06-2025,Fracture,590.48,Medicaid,17,Recovered,1.50,36-60
+PID00909,Hospital_16,New York,Pediatrics,Other,79,27-06-2025,Covid-19,570.78,Medicare,12,Recovered,1.60,60+
+PID00910,Hospital_22,New York,General Surgery,Male,4,28-06-2025,Heart Disease,1172.44,Medicare,19,Referred,2.90,0-18
+PID00911,Hospital_7,Atlanta,Neurology,Female,80,29-06-2025,Heart Disease,14856.42,Medicaid,19,Deceased,4.50,60+
+PID00912,Hospital_9,Chicago,Emergency,Other,8,30-06-2025,Diabetes,6316.08,Private,16,Recovered,4.30,0-18
+PID00913,Hospital_18,Seattle,Emergency,Male,60,01-07-2025,Flu,1158.79,Medicaid,1,Deceased,1.30,36-60
+PID00914,Hospital_14,New York,Neurology,Female,64,02-07-2025,Flu,8512.11,Medicaid,3,Referred,1.30,60+
+PID00915,Hospital_13,Phoenix,Neurology,Female,6,03-07-2025,Covid-19,11089.05,Medicaid,16,Deceased,2.30,0-18
+PID00916,Hospital_25,Houston,Cardiology,Female,45,04-07-2025,Cancer,10040.44,Private,10,Deceased,3.30,36-60
+PID00917,Hospital_22,Chicago,Emergency,Female,7,05-07-2025,Flu,7691.25,Medicaid,4,Referred,2.20,0-18
+PID00918,Hospital_13,Phoenix,Oncology,Male,10,06-07-2025,Diabetes,7022.16,Uninsured,12,Deceased,1.90,0-18
+PID00919,Hospital_8,Seattle,Oncology,Male,52,07-07-2025,Covid-19,10777.03,Medicare,9,Recovered,3.90,36-60
+PID00920,Hospital_22,Chicago,Emergency,Female,42,08-07-2025,Covid-19,14066.14,Medicare,20,Referred,3.80,36-60
+PID00921,Hospital_16,Phoenix,Emergency,Female,25,09-07-2025,Migraine,8487.58,Uninsured,2,Recovered,2.80,19-35
+PID00922,Hospital_5,Seattle,Neurology,Female,84,10-07-2025,Covid-19,7559.98,Medicaid,5,Recovered,3.80,60+
+PID00923,Hospital_19,Chicago,Emergency,Male,64,11-07-2025,Flu,7805.45,Medicare,20,Recovered,4.50,60+
+PID00924,Hospital_10,Phoenix,Pediatrics,Other,86,12-07-2025,Diabetes,11770.80,Uninsured,3,Referred,1.10,60+
+PID00925,Hospital_28,New York,Neurology,Female,14,13-07-2025,Heart Disease,997.39,Medicaid,12,Referred,4.60,0-18
+PID00926,Hospital_12,New York,Cardiology,Other,22,14-07-2025,Migraine,2085.66,Uninsured,17,Recovered,3.30,19-35
+PID00927,Hospital_4,Chicago,Cardiology,Other,59,15-07-2025,Covid-19,3542.81,Medicaid,1,Recovered,1.50,36-60
+PID00928,Hospital_3,Atlanta,Neurology,Female,26,16-07-2025,Diabetes,5406.20,Medicaid,13,Referred,3.50,19-35
+PID00929,Hospital_30,Los Angeles,Emergency,Other,37,17-07-2025,Heart Disease,12160.63,Medicare,19,Deceased,4.90,36-60
+PID00930,Hospital_19,Houston,Orthopedics,Other,70,18-07-2025,Cancer,12962.59,Private,17,Deceased,2.00,60+
+PID00931,Hospital_9,Los Angeles,Oncology,Female,90,19-07-2025,Fracture,2997.83,Private,18,Recovered,1.70,60+
+PID00932,Hospital_25,Atlanta,Emergency,Male,62,20-07-2025,Covid-19,3160.22,Medicaid,10,Deceased,4.80,60+
+PID00933,Hospital_20,New York,Oncology,Female,17,21-07-2025,Migraine,14312.97,Medicaid,12,Recovered,2.50,0-18
+PID00934,Hospital_6,Phoenix,Emergency,Other,22,22-07-2025,Fracture,803.74,Private,14,Deceased,2.20,19-35
+PID00935,Hospital_15,Houston,Neurology,Other,34,23-07-2025,Heart Disease,10348.48,Uninsured,12,Deceased,4.20,19-35
+PID00936,Hospital_18,Houston,Cardiology,Female,79,24-07-2025,Diabetes,5852.09,Medicaid,6,Deceased,1.80,60+
+PID00937,Hospital_27,Houston,General Surgery,Male,28,25-07-2025,Cancer,13186.08,Medicare,5,Recovered,3.20,19-35
+PID00938,Hospital_22,Los Angeles,Pediatrics,Other,17,26-07-2025,Migraine,3979.08,Medicare,3,Deceased,1.20,0-18
+PID00939,Hospital_18,Houston,Cardiology,Other,24,27-07-2025,Flu,14552.86,Medicaid,7,Recovered,4.90,19-35
+PID00940,Hospital_24,Houston,Cardiology,Female,59,28-07-2025,Fracture,2471.42,Medicare,13,Recovered,3.80,36-60
+PID00941,Hospital_2,Seattle,Orthopedics,Male,63,29-07-2025,Fracture,8398.22,Uninsured,14,Referred,2.80,60+
+PID00942,Hospital_16,Atlanta,Pediatrics,Other,15,30-07-2025,Flu,4973.80,Medicare,12,Recovered,2.10,0-18
+PID00943,Hospital_9,Miami,Oncology,Other,89,31-07-2025,Migraine,4479.43,Private,10,Deceased,4.00,60+
+PID00944,Hospital_26,Chicago,Emergency,Other,4,01-08-2025,Cancer,9060.03,Medicaid,12,Recovered,1.10,0-18
+PID00945,Hospital_3,Miami,Oncology,Male,5,02-08-2025,Fracture,10768.81,Private,3,Deceased,3.70,0-18
+PID00946,Hospital_15,Phoenix,Cardiology,Other,77,03-08-2025,Cancer,8586.61,Private,18,Recovered,2.50,60+
+PID00947,Hospital_8,Phoenix,Oncology,Female,84,04-08-2025,Flu,1338.83,Medicare,10,Recovered,1.80,60+
+PID00948,Hospital_9,Atlanta,Neurology,Other,81,05-08-2025,Fracture,6825.48,Private,9,Recovered,4.80,60+
+PID00949,Hospital_15,Houston,Neurology,Other,67,06-08-2025,Covid-19,6627.77,Private,16,Referred,4.20,60+
+PID00950,Hospital_28,Houston,General Surgery,Other,66,07-08-2025,Covid-19,14750.78,Medicaid,8,Recovered,3.90,60+
+PID00951,Hospital_23,Seattle,Orthopedics,Female,24,08-08-2025,Fracture,4565.00,Private,4,Referred,1.20,19-35
+PID00952,Hospital_17,New York,Pediatrics,Male,40,09-08-2025,Fracture,12693.60,Private,2,Recovered,1.50,36-60
+PID00953,Hospital_11,Phoenix,General Surgery,Male,16,10-08-2025,Fracture,12997.54,Medicaid,13,Recovered,3.60,0-18
+PID00954,Hospital_11,Houston,General Surgery,Other,55,11-08-2025,Diabetes,6084.03,Medicare,8,Deceased,3.90,36-60
+PID00955,Hospital_13,Phoenix,General Surgery,Female,52,12-08-2025,Diabetes,847.43,Medicare,4,Recovered,2.90,36-60
+PID00956,Hospital_28,Chicago,Pediatrics,Male,53,13-08-2025,Migraine,8132.20,Uninsured,4,Deceased,3.30,36-60
+PID00957,Hospital_7,Los Angeles,Pediatrics,Male,88,14-08-2025,Covid-19,2437.15,Uninsured,12,Deceased,3.80,60+
+PID00958,Hospital_18,Atlanta,Pediatrics,Female,90,15-08-2025,Migraine,9058.55,Private,1,Referred,3.00,60+
+PID00959,Hospital_30,Chicago,Neurology,Other,40,16-08-2025,Migraine,6708.86,Uninsured,10,Referred,4.30,36-60
+PID00960,Hospital_5,Seattle,General Surgery,Female,58,17-08-2025,Flu,12557.80,Uninsured,11,Recovered,1.90,36-60
+PID00961,Hospital_16,Los Angeles,Orthopedics,Female,10,18-08-2025,Cancer,3642.66,Medicaid,1,Recovered,1.50,0-18
+PID00962,Hospital_26,Seattle,Orthopedics,Female,85,19-08-2025,Migraine,14233.65,Medicaid,19,Deceased,1.80,60+
+PID00963,Hospital_25,Atlanta,Pediatrics,Female,1,20-08-2025,Fracture,8100.55,Private,11,Referred,4.50,0-18
+PID00964,Hospital_4,Seattle,Pediatrics,Female,61,21-08-2025,Fracture,9061.26,Medicaid,4,Deceased,1.70,60+
+PID00965,Hospital_3,Chicago,Cardiology,Female,81,22-08-2025,Fracture,1763.88,Medicare,13,Referred,2.80,60+
+PID00966,Hospital_10,Atlanta,General Surgery,Male,29,23-08-2025,Migraine,6536.23,Medicare,3,Referred,4.90,19-35
+PID00967,Hospital_20,Phoenix,Pediatrics,Male,55,24-08-2025,Flu,7201.49,Private,2,Recovered,3.10,36-60
+PID00968,Hospital_8,Miami,Pediatrics,Female,57,25-08-2025,Heart Disease,2023.76,Uninsured,15,Referred,1.50,36-60
+PID00969,Hospital_18,New York,Oncology,Other,54,26-08-2025,Diabetes,5579.41,Private,17,Referred,2.00,36-60
+PID00970,Hospital_25,Atlanta,Cardiology,Other,34,27-08-2025,Diabetes,2007.57,Uninsured,9,Deceased,4.50,19-35
+PID00971,Hospital_14,Phoenix,Emergency,Male,17,28-08-2025,Flu,3222.30,Private,7,Deceased,2.70,0-18
+PID00972,Hospital_5,Miami,General Surgery,Female,75,29-08-2025,Fracture,9905.16,Private,7,Deceased,3.70,60+
+PID00973,Hospital_13,Phoenix,General Surgery,Male,73,30-08-2025,Fracture,1855.73,Medicaid,11,Referred,2.30,60+
+PID00974,Hospital_17,Los Angeles,Cardiology,Male,4,31-08-2025,Diabetes,1632.81,Medicaid,16,Deceased,2.30,0-18
+PID00975,Hospital_10,Phoenix,Cardiology,Other,63,01-09-2025,Diabetes,7755.84,Uninsured,2,Recovered,2.60,60+
+PID00976,Hospital_7,Houston,Cardiology,Male,53,02-09-2025,Cancer,8926.44,Medicare,19,Recovered,1.30,36-60
+PID00977,Hospital_4,Phoenix,Oncology,Male,47,03-09-2025,Flu,14364.27,Uninsured,9,Deceased,4.40,36-60
+PID00978,Hospital_15,Houston,Neurology,Female,84,04-09-2025,Flu,9693.43,Private,20,Deceased,1.30,60+
+PID00979,Hospital_28,Los Angeles,Orthopedics,Other,70,05-09-2025,Cancer,14851.71,Private,5,Recovered,2.80,60+
+PID00980,Hospital_13,New York,General Surgery,Female,10,06-09-2025,Migraine,2597.65,Private,20,Recovered,4.90,0-18
+PID00981,Hospital_11,Chicago,Neurology,Male,77,07-09-2025,Cancer,13725.00,Uninsured,14,Referred,4.20,60+
+PID00982,Hospital_28,Los Angeles,General Surgery,Other,59,08-09-2025,Cancer,3671.21,Uninsured,10,Recovered,2.30,36-60
+PID00983,Hospital_17,Los Angeles,Neurology,Other,84,09-09-2025,Fracture,8192.40,Medicaid,13,Referred,1.20,60+
+PID00984,Hospital_4,Houston,Orthopedics,Female,8,10-09-2025,Fracture,1930.77,Uninsured,4,Deceased,3.00,0-18
+PID00985,Hospital_2,Houston,Emergency,Other,19,11-09-2025,Covid-19,9788.28,Uninsured,9,Deceased,1.20,19-35
+PID00986,Hospital_13,Seattle,Emergency,Male,33,12-09-2025,Diabetes,4705.45,Medicare,1,Referred,4.20,19-35
+PID00987,Hospital_24,Miami,General Surgery,Female,61,13-09-2025,Covid-19,4893.11,Medicare,14,Referred,2.40,60+
+PID00988,Hospital_27,Seattle,Neurology,Male,32,14-09-2025,Migraine,7960.71,Medicare,19,Referred,1.20,19-35
+PID00989,Hospital_22,Miami,Oncology,Other,20,15-09-2025,Fracture,5230.76,Private,18,Recovered,3.30,19-35
+PID00990,Hospital_7,Chicago,Cardiology,Female,58,16-09-2025,Heart Disease,10767.76,Medicaid,3,Deceased,2.10,36-60
+PID00991,Hospital_29,Miami,General Surgery,Male,26,17-09-2025,Migraine,8871.00,Private,8,Referred,2.50,19-35
+PID00992,Hospital_1,Chicago,Pediatrics,Female,44,18-09-2025,Migraine,7715.66,Private,14,Referred,4.30,36-60
+PID00993,Hospital_5,Chicago,Neurology,Male,3,19-09-2025,Heart Disease,11362.45,Private,12,Deceased,1.90,0-18
+PID00994,Hospital_9,Seattle,Oncology,Female,7,20-09-2025,Cancer,2481.00,Medicaid,11,Deceased,1.90,0-18
+PID00995,Hospital_2,Chicago,Neurology,Other,2,21-09-2025,Fracture,13440.60,Medicare,14,Referred,2.20,0-18
+PID00996,Hospital_22,Los Angeles,Orthopedics,Female,17,22-09-2025,Heart Disease,6452.56,Medicaid,20,Deceased,4.20,0-18
+PID00997,Hospital_21,Los Angeles,Neurology,Other,82,23-09-2025,Diabetes,14513.19,Medicaid,7,Recovered,2.70,60+
+PID00998,Hospital_3,New York,General Surgery,Male,13,24-09-2025,Migraine,6762.06,Medicare,16,Referred,2.20,0-18
+PID00999,Hospital_9,New York,Pediatrics,Female,87,25-09-2025,Heart Disease,8560.65,Private,14,Deceased,2.90,60+
+PID01000,Hospital_22,Houston,Cardiology,Female,75,26-09-2025,Cancer,8394.20,Uninsured,8,Referred,4.00,60+
